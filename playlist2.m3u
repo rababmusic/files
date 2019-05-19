@@ -7,24 +7,40 @@ http://zoneiptv.us:8080/derbimac/16derbi16/8
 http://livewipserver.duckdns.org:8888/live/pasa/pasa546/100.ts
 #EXTINF:-1,Bein Sports 1 HD
 http://185-8-178-138.livesports24.online/bsporttur1.m3u8
-#EXTINF:-1,Bein Sports 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/452
-#EXTINF:-1,Bein Sports 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/1934
+#EXTINF:-1,Bein Sports 1 UHD
+http://tezkom.ksbox.life:8080/5513915147/gRvsFs43j7/18067
 #EXTINF:-1,Bein Sports 1 HD
 http://p5.giffy.be:8080/andrew/andrew/111415
 #EXTINF:-1,Bein Sports 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/28517
+#EXTINF:-1,Bein Sports 1 HD
+http://m-iptv.net:6204/said7s7yglzknsi/ssygshsgzgz7o/15639
+#EXTINF:-1,Bein Sports 1 HD
+http://iptvpro.watch-vision.net:8789/tinchi/Y6qMiEC7Ec/14004
+#EXTINF:-1,Bein Sports 1 HD
 http://l.land02.live:8080/LNcRw6GVVl/SLgNSmTHwq/198571
+#EXTINF:-1,Bein Sports 1 HD
+http://cem1.ddns.net:8000/sw9144/1909.kuR/5637
+#EXTINF:-1,Bein Sports 1 SD
+http://cem1.ddns.net:8000/sw9144/1909.kuR/8402
 #EXTINF:-1,Bein Sports 2 HD
 http://livewipserver.duckdns.org:8888/live/pasa/pasa546/107.ts
 #EXTINF:-1,Bein Sports 2 HD
 http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/20761
 #EXTINF:-1,Bein Sports 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/470
-#EXTINF:-1,Bein Sports 2 HD
 http://p5.giffy.be:8080/andrew/andrew/111414
+#EXTINF:-1,Bein Sports 2 UHD
+http://tezkom.ksbox.life:8080/5513915147/gRvsFs43j7/18066
 #EXTINF:-1,Bein Sports 2 HD
 http://l.land02.live:8080/LNcRw6GVVl/SLgNSmTHwq/198572
+#EXTINF:-1,Bein Sports 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/28516
+#EXTINF:-1,Bein Sports 2 HD
+http://m-iptv.net:6204/said7s7yglzknsi/ssygshsgzgz7o/15638
+#EXTINF:-1,Bein Sports 2 HD
+http://iptvpro.watch-vision.net:8789/tinchi/Y6qMiEC7Ec/14003
+#EXTINF:-1,Bein Sports 2 HD
+http://cem1.ddns.net:8000/sw9144/1909.kuR/8407
 #EXTINF:-1,Bein Sports 2 HD
 http://176.10.117.12:8081/aypitv/SPORTHD2/playlist.m3u8
 #EXTINF:-1,Bein Sports 3 HD
@@ -32,13 +48,27 @@ http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/20760
 #EXTINF:-1,Bein Sports 3 HD
 http://l.land02.live:8080/LNcRw6GVVl/SLgNSmTHwq/198573
 #EXTINF:-1,Bein Sports 3 HD
-http://176.10.117.12:8081/aypitv/SportHD3/playlist.m3u8
+http://siptv-online.com:8789/Julien90/Julien90/28515
+#EXTINF:-1,Bein Sports 3 UHD
+http://tezkom.ksbox.life:8080/5513915147/gRvsFs43j7/18065
 #EXTINF:-1,Bein Sports 3 HD
-http://tektv.co:80/claude10/10claude/39557
+http://m-iptv.net:6204/said7s7yglzknsi/ssygshsgzgz7o/15637
+#EXTINF:-1,Bein Sports 3 HD
+http://iptvpro.watch-vision.net:8789/tinchi/Y6qMiEC7Ec/14002
+#EXTINF:-1,Bein Sports 3 HD
+http://cem1.ddns.net:8000/sw9144/1909.kuR/8400
+#EXTINF:-1,Bein Sports 3 HD
+http://176.10.117.12:8081/aypitv/SportHD3/playlist.m3u8
+#EXTINF:-1,Bein Sports 4 UHD
+http://tezkom.ksbox.life:8080/5513915147/gRvsFs43j7/18064
 #EXTINF:-1,Bein Sports 4 HD
-http://www.nilsattv.com:8080/bedri/gungor/1937
+http://m-iptv.net:6204/said7s7yglzknsi/ssygshsgzgz7o/15636
 #EXTINF:-1,Bein Sports 4 HD
-http://tektv.co:80/claude10/10claude/39556
+http://iptvpro.watch-vision.net:8789/tinchi/Y6qMiEC7Ec/14001
+#EXTINF:-1,Bein Sports 4 HD
+http://siptv-online.com:8789/Julien90/Julien90/28514
+#EXTINF:-1,Bein Sports 4 HD
+http://cem1.ddns.net:8000/sw9144/1909.kuR/8406
 #EXTINF:-1,Bein Sports Max 1 HD
 http://176.10.117.12:8081/aypitv/SPORTmax1/playlist.m3u8
 #EXTINF:-1,Bein Sports Max 1 HD
@@ -70,566 +100,6 @@ http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/20810
 #EXTINF:-1,S Sport HD
 http://tektv.co:80/claude10/10claude/39551
 #EXTINF:-1,S Sport HD
+http://tezkom.ksbox.life:8080/5513915147/gRvsFs43j7/18049
+#EXTINF:-1,S Sport HD
 http://cem1.ddns.net:8000/sw9144/1909.kuR/8396
-#EXTINF:-1,STAR TV SD
-http://www.nilsattv.com:8080/bedri/gungor/1958
-#EXTINF:-1,STAR TV HD
-http://www.nilsattv.com:8080/bedri/gungor/198
-#EXTINF:-1,ATV SD
-http://www.nilsattv.com:8080/bedri/gungor/1303
-#EXTINF:-1,ATV HD
-http://www.nilsattv.com:8080/bedri/gungor/383
-#EXTINF:-1,ATV AVRUPA
-http://www.nilsattv.com:8080/bedri/gungor/1625
-#EXTINF:-1,A2
-http://www.nilsattv.com:8080/bedri/gungor/1440
-#EXTINF:-1,Kanal D SD
-http://www.nilsattv.com:8080/bedri/gungor/36
-#EXTINF:-1,Kanal D HD
-http://www.nilsattv.com:8080/bedri/gungor/1380
-#EXTINF:-1,SHOW TV SD
-http://www.nilsattv.com:8080/bedri/gungor/1306
-#EXTINF:-1,SHOW TV HD
-http://www.nilsattv.com:8080/bedri/gungor/25
-#EXTINF:-1,FOX TV SD
-http://www.nilsattv.com:8080/bedri/gungor/1903
-#EXTINF:-1,FOX TV HD
-http://www.nilsattv.com:8080/bedri/gungor/469
-#EXTINF:-1,ULKE TV HD
-http://www.nilsattv.com:8080/bedri/gungor/10
-#EXTINF:-1,FIL TV HD
-http://www.nilsattv.com:8080/bedri/gungor/1438
-#EXTINF:-1,NTV SD
-http://www.nilsattv.com:8080/bedri/gungor/2075
-#EXTINF:-1,NTV HD
-http://www.nilsattv.com:8080/bedri/gungor/446
-#EXTINF:-1,DMAX SD
-http://www.nilsattv.com:8080/bedri/gungor/1977
-#EXTINF:-1,DMAX HD
-http://www.nilsattv.com:8080/bedri/gungor/1999
-#EXTINF:-1,TV 8 SD
-http://www.nilsattv.com:8080/bedri/gungor/1200
-#EXTINF:-1,TV 8 HD
-http://www.nilsattv.com:8080/bedri/gungor/462
-#EXTINF:-1,TV 8.5 SD
-http://www.nilsattv.com:8080/bedri/gungor/1302
-#EXTINF:-1,TV 8.5 HD
-http://www.nilsattv.com:8080/bedri/gungor/1416
-#EXTINF:-1,TV 8 INT
-http://www.nilsattv.com:8080/bedri/gungor/2579
-#EXTINF:-1,Teve 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/503
-#EXTINF:-1,KANAL 7 SD
-http://www.nilsattv.com:8080/bedri/gungor/2036
-#EXTINF:-1,KANAL 7 HD
-http://www.nilsattv.com:8080/bedri/gungor/98
-#EXTINF:-1,360 TV HD
-http://www.nilsattv.com:8080/bedri/gungor/1383
-#EXTINF:-1,HABERTURK HD
-http://www.nilsattv.com:8080/bedri/gungor/33
-#EXTINF:-1,A Haber SD
-http://www.nilsattv.com:8080/bedri/gungor/1979
-#EXTINF:-1,A Haber HD
-http://www.nilsattv.com:8080/bedri/gungor/468
-#EXTINF:-1,A Spor SD
-http://www.nilsattv.com:8080/bedri/gungor/1980
-#EXTINF:-1,A Spor HD
-http://www.nilsattv.com:8080/bedri/gungor/454
-#EXTINF:-1,BEYAZ TV SD
-http://www.nilsattv.com:8080/bedri/gungor/1985
-#EXTINF:-1,BEYAZ TV HD
-http://www.nilsattv.com:8080/bedri/gungor/27
-#EXTINF:-1,CNN TURK SD
-http://www.nilsattv.com:8080/bedri/gungor/2263
-#EXTINF:-1,CNN TURK HD
-http://www.nilsattv.com:8080/bedri/gungor/161
-#EXTINF:-1,Rumeli TV
-http://www.nilsattv.com:8080/bedri/gungor/105
-#EXTINF:-1,Tek Rumeli
-http://www.nilsattv.com:8080/bedri/gungor/1892
-#EXTINF:-1,Yaban TV HD
-http://www.nilsattv.com:8080/bedri/gungor/63
-#EXTINF:-1,AV TV
-http://www.nilsattv.com:8080/bedri/gungor/1978
-#EXTINF:-1,Animal Planet
-http://www.nilsattv.com:8080/bedri/gungor/954
-#EXTINF:-1,History
-http://www.nilsattv.com:8080/bedri/gungor/1247
-#EXTINF:-1,BBC Earth HD
-http://www.nilsattv.com:8080/bedri/gungor/1251
-#EXTINF:-1,Discovery Channel
-http://www.nilsattv.com:8080/bedri/gungor/1250
-#EXTINF:-1,Nat Geo People
-http://www.nilsattv.com:8080/bedri/gungor/1252
-#EXTINF:-1,National Geographic HD
-http://www.nilsattv.com:8080/bedri/gungor/726
-#EXTINF:-1,Nat Geo Wild HD
-http://www.nilsattv.com:8080/bedri/gungor/727
-#EXTINF:-1,Da Vinci Learning
-http://www.nilsattv.com:8080/bedri/gungor/1177
-#EXTINF:-1,BLOOMBERG TELEVISION HD
-http://www.nilsattv.com:8080/bedri/gungor/1056
-#EXTINF:-1,BLOOMBERG HT HD
-http://www.nilsattv.com:8080/bedri/gungor/1350
-#EXTINF:-1,DISCOVERY SHOWCASE HD
-http://www.nilsattv.com:8080/bedri/gungor/2278
-#EXTINF:-1,FOX Crime
-http://www.nilsattv.com:8080/bedri/gungor/2172
-#EXTINF:-1,FX TV HD
-http://www.nilsattv.com:8080/bedri/gungor/2781
-#EXTINF:-1,Nilsat Turkbox
-http://www.nilsattv.com:8080/bedri/gungor/2667
-#EXTINF:-1,Nilsat Yesilcam HD
-http://www.nilsattv.com:8080/bedri/gungor/2666
-#EXTINF:-1,Nilsat Sinema 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/2497
-#EXTINF:-1,Nilsat Sinema 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/2524
-#EXTINF:-1,Tivibu Vizyon HD
-http://www.nilsattv.com:8080/bedri/gungor/1945
-#EXTINF:-1,Tivibu Vizyon 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/1947
-#EXTINF:-1,Tivibu Adrenalin 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/1946
-#EXTINF:-1,Tivibu Adrenalin 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/1949
-#EXTINF:-1,Tivibu Turk 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/1948
-#EXTINF:-1,Tivibu Turk 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/1928
-#EXTINF:-1,BEiN BOX OFFiCE 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/1931
-#EXTINF:-1,BEiN BOX OFFiCE 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/1930
-#EXTINF:-1,BEiN BOX OFFiCE 3 HD
-http://www.nilsattv.com:8080/bedri/gungor/1929
-#EXTINF:-1,METROPOL AKSiYON HD
-http://www.nilsattv.com:8080/bedri/gungor/2502
-#EXTINF:-1,METROPOL FANTASTiK HD
-http://www.nilsattv.com:8080/bedri/gungor/2503
-#EXTINF:-1,METROPOL AILE  HD
-http://www.nilsattv.com:8080/bedri/gungor/2501
-#EXTINF:-1,METROPOL DRAMA HD
-http://www.nilsattv.com:8080/bedri/gungor/2505
-#EXTINF:-1,METROPOL POP HD
-http://www.nilsattv.com:8080/bedri/gungor/2506
-#EXTINF:-1,METROPOL ANKARA HD
-http://www.nilsattv.com:8080/bedri/gungor/2507
-#EXTINF:-1,METROPOL SLOW HD
-http://www.nilsattv.com:8080/bedri/gungor/2508
-#EXTINF:-1,METROPOL KOMEDi HD
-http://www.nilsattv.com:8080/bedri/gungor/2504
-#EXTINF:-1,METROPOL BiLiMKURGU HD
-http://www.nilsattv.com:8080/bedri/gungor/2537
-#EXTINF:-1,ELIT POP
-http://www.nilsattv.com:8080/bedri/gungor/2462
-#EXTINF:-1,ELIT SLOW
-http://www.nilsattv.com:8080/bedri/gungor/2461
-#EXTINF:-1,ELIT ANKARA
-http://www.nilsattv.com:8080/bedri/gungor/2463
-#EXTINF:-1,Salon 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/1938
-#EXTINF:-1,Salon 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/1939
-#EXTINF:-1,Salon 3 HD
-http://www.nilsattv.com:8080/bedri/gungor/1940
-#EXTINF:-1,Loca 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/2764
-#EXTINF:-1,Loca 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/2765
-#EXTINF:-1,Loca 3 HD
-http://www.nilsattv.com:8080/bedri/gungor/2766
-#EXTINF:-1,Digimax 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/1269
-#EXTINF:-1,Digimax 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/1266
-#EXTINF:-1,MovieMax Family
-http://www.nilsattv.com:8080/bedri/gungor/1875
-#EXTINF:-1,CineStar Vizyon 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/1941
-#EXTINF:-1,CineStar Vizyon 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/1873
-#EXTINF:-1,BeIN Movies Action
-http://www.nilsattv.com:8080/bedri/gungor/2413
-#EXTINF:-1,BeIN Movies Premier
-http://www.nilsattv.com:8080/bedri/gungor/2397
-#EXTINF:-1,Sinema TV Aile HD
-http://www.nilsattv.com:8080/bedri/gungor/2398
-#EXTINF:-1,BeIN Movies Starts
-http://www.nilsattv.com:8080/bedri/gungor/1922
-#EXTINF:-1,MovieSmart Platin 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/1919
-#EXTINF:-1,MovieMax Comedy HD
-http://www.nilsattv.com:8080/bedri/gungor/2166
-#EXTINF:-1,MovieMax Action / Oscars HD
-http://www.nilsattv.com:8080/bedri/gungor/2167
-#EXTINF:-1,MovieMax Family HD
-http://www.nilsattv.com:8080/bedri/gungor/2165
-#EXTINF:-1,MovieMax Turk
-http://www.nilsattv.com:8080/bedri/gungor/1942
-#EXTINF:-1,MovieSmart Premium HD
-http://www.nilsattv.com:8080/bedri/gungor/2333
-#EXTINF:-1,MovieSmart Premium 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/1267
-#EXTINF:-1,SineMAX Family HD
-http://www.nilsattv.com:8080/bedri/gungor/1943
-#EXTINF:-1,SineMAX Nostalgia HD
-http://www.nilsattv.com:8080/bedri/gungor/1944
-#EXTINF:-1,SineMAX Comedy HD
-http://www.nilsattv.com:8080/bedri/gungor/1878
-#EXTINF:-1,Sinema TV Aksiyon
-http://www.nilsattv.com:8080/bedri/gungor/2336
-#EXTINF:-1,TVNet SD
-http://www.nilsattv.com:8080/bedri/gungor/1240
-#EXTINF:-1,TVNet HD
-http://www.nilsattv.com:8080/bedri/gungor/2329
-#EXTINF:-1,Yesilcam HD
-http://www.nilsattv.com:8080/bedri/gungor/2330
-#EXTINF:-1,Yesilcam 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/2331
-#EXTINF:-1,4 EYLUL TV
-http://www.nilsattv.com:8080/bedri/gungor/1881
-#EXTINF:-1,VIVA
-http://www.nilsattv.com:8080/bedri/gungor/1167
-#EXTINF:-1,FLASH TV
-http://www.nilsattv.com:8080/bedri/gungor/61
-#EXTINF:-1,ULUSAL TV
-http://www.nilsattv.com:8080/bedri/gungor/980
-#EXTINF:-1,TGRT EU
-http://www.nilsattv.com:8080/bedri/gungor/1242
-#EXTINF:-1,TGRT HABER
-http://www.nilsattv.com:8080/bedri/gungor/536
-#EXTINF:-1,TGRT Belgesel
-http://www.nilsattv.com:8080/bedri/gungor/1241
-#EXTINF:-1,MinikaGO
-http://www.nilsattv.com:8080/bedri/gungor/901
-#EXTINF:-1,Minika Cocuk
-http://www.nilsattv.com:8080/bedri/gungor/693
-#EXTINF:-1,Baby TV
-http://www.nilsattv.com:8080/bedri/gungor/1439
-#EXTINF:-1,Cartoon Network
-http://www.nilsattv.com:8080/bedri/gungor/1243
-#EXTINF:-1,Planet Cocuk
-http://www.nilsattv.com:8080/bedri/gungor/696
-#EXTINF:-1,Planet Turk
-http://www.nilsattv.com:8080/bedri/gungor/757
-#EXTINF:-1,Planet Mutfak
-http://www.nilsattv.com:8080/bedri/gungor/1441
-#EXTINF:-1,TVEM
-http://www.nilsattv.com:8080/bedri/gungor/1435
-#EXTINF:-1,beIN IZ HD
-http://www.nilsattv.com:8080/bedri/gungor/1248
-#EXTINF:-1,KANAL C
-http://www.nilsattv.com:8080/bedri/gungor/2084
-#EXTINF:-1,Power TV HD
-http://www.nilsattv.com:8080/bedri/gungor/99
-#EXTINF:-1,Power Turk HD
-http://www.nilsattv.com:8080/bedri/gungor/24
-#EXTINF:-1,Lifetime
-http://www.nilsattv.com:8080/bedri/gungor/1381
-#EXTINF:-1,KON TV
-http://www.nilsattv.com:8080/bedri/gungor/1382
-#EXTINF:-1,TRT 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/31
-#EXTINF:-1,TRT Belgesel HD
-http://www.nilsattv.com:8080/bedri/gungor/728
-#EXTINF:-1,TRT HABER HD
-http://www.nilsattv.com:8080/bedri/gungor/32
-#EXTINF:-1,TRT TURK
-http://www.nilsattv.com:8080/bedri/gungor/3
-#EXTINF:-1,TRT SPOR SD
-http://www.nilsattv.com:8080/bedri/gungor/42
-#EXTINF:-1,TRT OKUL
-http://www.nilsattv.com:8080/bedri/gungor/6
-#EXTINF:-1,TRT Muzik
-http://www.nilsattv.com:8080/bedri/gungor/7
-#EXTINF:-1,TRT KURDI
-http://www.nilsattv.com:8080/bedri/gungor/5
-#EXTINF:-1,TRT COCUK SD
-http://www.nilsattv.com:8080/bedri/gungor/2
-#EXTINF:-1,TRT AVAZ HD
-http://www.nilsattv.com:8080/bedri/gungor/4
-#EXTINF:-1,TRT DIYANET
-http://www.nilsattv.com:8080/bedri/gungor/1465
-#EXTINF:-1,TRT Al Arabiya HD
-http://www.nilsattv.com:8080/bedri/gungor/8
-#EXTINF:-1,TRT World HD
-http://www.nilsattv.com:8080/bedri/gungor/1239
-#EXTINF:-1,Kral TV HD
-http://www.nilsattv.com:8080/bedri/gungor/106
-#EXTINF:-1,Kral Pop TV
-http://www.nilsattv.com:8080/bedri/gungor/525
-#EXTINF:-1,EDESSA TV
-http://www.nilsattv.com:8080/bedri/gungor/1475
-#EXTINF:-1,ERT SAH TV
-http://www.nilsattv.com:8080/bedri/gungor/1341
-#EXTINF:-1,SIM TV
-http://www.nilsattv.com:8080/bedri/gungor/1344
-#EXTINF:-1,UCANKUS TV
-http://www.nilsattv.com:8080/bedri/gungor/1345
-#EXTINF:-1,KOZA TV
-http://www.nilsattv.com:8080/bedri/gungor/1421
-#EXTINF:-1,DRT DENIZLI
-http://www.nilsattv.com:8080/bedri/gungor/1422
-#EXTINF:-1,KANAL 3
-http://www.nilsattv.com:8080/bedri/gungor/1414
-#EXTINF:-1,Kidz Animez
-http://www.nilsattv.com:8080/bedri/gungor/1415
-#EXTINF:-1,Disney Channel
-http://www.nilsattv.com:8080/bedri/gungor/1572
-#EXTINF:-1,EURO STAR
-http://www.nilsattv.com:8080/bedri/gungor/1428
-#EXTINF:-1,MPL
-http://www.nilsattv.com:8080/bedri/gungor/1413
-#EXTINF:-1,OLAY TV
-http://www.nilsattv.com:8080/bedri/gungor/1406
-#EXTINF:-1,LALEGUL TV
-http://www.nilsattv.com:8080/bedri/gungor/1407
-#EXTINF:-1,TV 4 HD
-http://www.nilsattv.com:8080/bedri/gungor/1417
-#EXTINF:-1,38 KENT TV
-http://www.nilsattv.com:8080/bedri/gungor/1432
-#EXTINF:-1,ALTAS TV
-http://www.nilsattv.com:8080/bedri/gungor/2557
-#EXTINF:-1,CUKUROVA TURK TV
-http://www.nilsattv.com:8080/bedri/gungor/2573
-#EXTINF:-1,EGETURK TV
-http://www.nilsattv.com:8080/bedri/gungor/2559
-#EXTINF:-1,EKINTURK TV
-http://www.nilsattv.com:8080/bedri/gungor/2560
-#EXTINF:-1,EURO D
-http://www.nilsattv.com:8080/bedri/gungor/2562
-#EXTINF:-1,GUNEYDOGU TV
-http://www.nilsattv.com:8080/bedri/gungor/2563
-#EXTINF:-1,HRT AKDENIZ TV
-http://www.nilsattv.com:8080/bedri/gungor/2564
-#EXTINF:-1,KABE(CANLI) AL QURAN
-http://www.nilsattv.com:8080/bedri/gungor/2565
-#EXTINF:-1,KADIRGA TV
-http://www.nilsattv.com:8080/bedri/gungor/2566
-#EXTINF:-1,1 AN TV
-http://www.nilsattv.com:8080/bedri/gungor/2568
-#EXTINF:-1,24 TV HD
-http://www.nilsattv.com:8080/bedri/gungor/2567
-#EXTINF:-1,SAUDI SUNNAH
-http://www.nilsattv.com:8080/bedri/gungor/2571
-#EXTINF:-1,TELE 1
-http://www.nilsattv.com:8080/bedri/gungor/2572
-#EXTINF:-1,TV 52
-http://www.nilsattv.com:8080/bedri/gungor/1408
-#EXTINF:-1,TLC
-http://www.nilsattv.com:8080/bedri/gungor/1338
-#EXTINF:-1,CEM TV
-http://www.nilsattv.com:8080/bedri/gungor/1340
-#EXTINF:-1,CAY TV
-http://www.nilsattv.com:8080/bedri/gungor/1347
-#EXTINF:-1,GS TV
-http://www.nilsattv.com:8080/bedri/gungor/1385
-#EXTINF:-1,FB TV
-http://www.nilsattv.com:8080/bedri/gungor/1386
-#EXTINF:-1,BJK TV
-http://www.nilsattv.com:8080/bedri/gungor/1384
-#EXTINF:-1,TJK TV
-http://www.nilsattv.com:8080/bedri/gungor/464
-#EXTINF:-1,BURSASPOR TV
-http://www.nilsattv.com:8080/bedri/gungor/1
-#EXTINF:-1,Sports TV
-http://www.nilsattv.com:8080/bedri/gungor/29
-#EXTINF:-1,Eurosport 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/1436
-#EXTINF:-1,EUROSPORT 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/1437
-#EXTINF:-1,(DE) VOX
-http://www.nilsattv.com:8080/bedri/gungor/1742
-#EXTINF:-1,(DE) VOX HD
-http://www.nilsattv.com:8080/bedri/gungor/566
-#EXTINF:-1,(DE) SIXX HD
-http://www.nilsattv.com:8080/bedri/gungor/804
-#EXTINF:-1,(DE) ProSieben Maxx HD
-http://www.nilsattv.com:8080/bedri/gungor/1557
-#EXTINF:-1,(DE) ZDF
-http://www.nilsattv.com:8080/bedri/gungor/1678
-#EXTINF:-1,(DE) ZDF HD
-http://www.nilsattv.com:8080/bedri/gungor/564
-#EXTINF:-1,(DE) ZDFneo
-http://www.nilsattv.com:8080/bedri/gungor/801
-#EXTINF:-1,(DE) ZDFneo HD
-http://www.nilsattv.com:8080/bedri/gungor/1745
-#EXTINF:-1,(DE) ZDFinfo
-http://www.nilsattv.com:8080/bedri/gungor/1187
-#EXTINF:-1,(DE) WDR HD
-http://www.nilsattv.com:8080/bedri/gungor/565
-#EXTINF:-1,(DE) ARTE
-http://www.nilsattv.com:8080/bedri/gungor/1624
-#EXTINF:-1,(DE) ARTE HD
-http://www.nilsattv.com:8080/bedri/gungor/148
-#EXTINF:-1,(DE) RTL
-http://www.nilsattv.com:8080/bedri/gungor/1659
-#EXTINF:-1,(DE) RTL HD
-http://www.nilsattv.com:8080/bedri/gungor/853
-#EXTINF:-1,(DE) RTL II
-http://www.nilsattv.com:8080/bedri/gungor/1660
-#EXTINF:-1,(DE) RTL II HD
-http://www.nilsattv.com:8080/bedri/gungor/571
-#EXTINF:-1,(DE) RTL Nitro
-http://www.nilsattv.com:8080/bedri/gungor/803
-#EXTINF:-1,(DE) kabel eins
-http://www.nilsattv.com:8080/bedri/gungor/862
-#EXTINF:-1,(DE) Das Erste HD
-http://www.nilsattv.com:8080/bedri/gungor/852
-#EXTINF:-1,(DE) phoenix
-http://www.nilsattv.com:8080/bedri/gungor/1655
-#EXTINF:-1,(DE) SRF 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/779
-#EXTINF:-1,(DE) ORF eins
-http://www.nilsattv.com:8080/bedri/gungor/1834
-#EXTINF:-1,(DE) ORF 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/1835
-#EXTINF:-1,(DE) Sat.1
-http://www.nilsattv.com:8080/bedri/gungor/1186
-#EXTINF:-1,(DE) Sat1 Gold
-http://www.nilsattv.com:8080/bedri/gungor/781
-#EXTINF:-1,(DE) ProSieben
-http://www.nilsattv.com:8080/bedri/gungor/776
-#EXTINF:-1,(DE) KIKA
-http://www.nilsattv.com:8080/bedri/gungor/1725
-#EXTINF:-1,(DE) KIKA HD
-http://www.nilsattv.com:8080/bedri/gungor/777
-#EXTINF:-1,(DE) SUPER RTL
-http://www.nilsattv.com:8080/bedri/gungor/1662
-#EXTINF:-1,(DE) One
-http://www.nilsattv.com:8080/bedri/gungor/1714
-#EXTINF:-1,(DE) n-tv HD
-http://www.nilsattv.com:8080/bedri/gungor/1730
-#EXTINF:-1,(DE) 3sat
-http://www.nilsattv.com:8080/bedri/gungor/1684
-#EXTINF:-1,(DE) 3sat HD
-http://www.nilsattv.com:8080/bedri/gungor/1685
-#EXTINF:-1,(DE) Zee One HD
-http://www.nilsattv.com:8080/bedri/gungor/1779
-#EXTINF:-1,(DE) Sky Action HD
-http://www.nilsattv.com:8080/bedri/gungor/1294
-#EXTINF:-1,(DE) Sky Atlantic HD
-http://www.nilsattv.com:8080/bedri/gungor/1781
-#EXTINF:-1,(DE) Sky Cinema HD
-http://www.nilsattv.com:8080/bedri/gungor/878
-#EXTINF:-1,(DE) Sky 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/1858
-#EXTINF:-1,(DE) Sky Nostalgie
-http://www.nilsattv.com:8080/bedri/gungor/1859
-#EXTINF:-1,(DE) Sky Cinema Hits HD
-http://www.nilsattv.com:8080/bedri/gungor/1782
-#EXTINF:-1,(DE) Sky Krimi HD
-http://www.nilsattv.com:8080/bedri/gungor/825
-#EXTINF:-1,(DE) Sky Comedy HD
-http://www.nilsattv.com:8080/bedri/gungor/912
-#EXTINF:-1,(DE) Sky Cinema +24
-http://www.nilsattv.com:8080/bedri/gungor/879
-#EXTINF:-1,(DE) TNT Film HD
-http://www.nilsattv.com:8080/bedri/gungor/492
-#EXTINF:-1,(DE) TNT Comedy HD
-http://www.nilsattv.com:8080/bedri/gungor/2538
-#EXTINF:-1,(DE) tagesschau24
-http://www.nilsattv.com:8080/bedri/gungor/1739
-#EXTINF:-1,(DE) Nickelodeon HD
-http://www.nilsattv.com:8080/bedri/gungor/1129
-#EXTINF:-1,(DE) Nat Geo Wild HD
-http://www.nilsattv.com:8080/bedri/gungor/690
-#EXTINF:-1,(DE) Nat Geographic
-http://www.nilsattv.com:8080/bedri/gungor/746
-#EXTINF:-1,(DE) Nat Geo People
-http://www.nilsattv.com:8080/bedri/gungor/1918
-#EXTINF:-1,(DE) TVA
-http://www.nilsattv.com:8080/bedri/gungor/22
-#EXTINF:-1,(DE) Syfy HD
-http://www.nilsattv.com:8080/bedri/gungor/563
-#EXTINF:-1,(DE) Sky Emotion HD
-http://www.nilsattv.com:8080/bedri/gungor/568
-#EXTINF:-1,(DE) FOX HD
-http://www.nilsattv.com:8080/bedri/gungor/573
-#EXTINF:-1,(DE) CLASSICA HD
-http://www.nilsattv.com:8080/bedri/gungor/1317
-#EXTINF:-1,(DE) TV Touring
-http://www.nilsattv.com:8080/bedri/gungor/21
-#EXTINF:-1,(DE) Disney
-http://www.nilsattv.com:8080/bedri/gungor/826
-#EXTINF:-1,(DE) 13th Street HD
-http://www.nilsattv.com:8080/bedri/gungor/828
-#EXTINF:-1,(DE) NDR HD
-http://www.nilsattv.com:8080/bedri/gungor/143
-#EXTINF:-1,(DE) TNT Serie HD
-http://www.nilsattv.com:8080/bedri/gungor/1905
-#EXTINF:-1,(DE) DMAX
-http://www.nilsattv.com:8080/bedri/gungor/2539
-#EXTINF:-1,(DE) Sky Select 1
-http://www.nilsattv.com:8080/bedri/gungor/1130
-#EXTINF:-1,(DE) Sky Select 2
-http://www.nilsattv.com:8080/bedri/gungor/1131
-#EXTINF:-1,(DE) Sky Select 3
-http://www.nilsattv.com:8080/bedri/gungor/1132
-#EXTINF:-1,(DE) Sky Select 4
-http://www.nilsattv.com:8080/bedri/gungor/1133
-#EXTINF:-1,(DE) Sky Select 5
-http://www.nilsattv.com:8080/bedri/gungor/1134
-#EXTINF:-1,(DE) Sky Select 6
-http://www.nilsattv.com:8080/bedri/gungor/1290
-#EXTINF:-1,(DE) Sky Select 7
-http://www.nilsattv.com:8080/bedri/gungor/2651
-#EXTINF:-1,(DE) Sky Select 8
-http://www.nilsattv.com:8080/bedri/gungor/2652
-#EXTINF:-1,(DE) SKY SPORTS 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/849
-#EXTINF:-1,(DE) SKY SPORTS 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/850
-#EXTINF:-1,(DE) Sky Bundesliga 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/899
-#EXTINF:-1,(DE) Sky Bundesliga 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/2662
-#EXTINF:-1,(DE) Sky Bundesliga 3 HD
-http://www.nilsattv.com:8080/bedri/gungor/2663
-#EXTINF:-1,(DE) Sky Bundesliga 4 HD
-http://www.nilsattv.com:8080/bedri/gungor/2664
-#EXTINF:-1,(DE) Sky Bundesliga 5 HD
-http://www.nilsattv.com:8080/bedri/gungor/2665
-#EXTINF:-1,(DE) SKY SPORT NEWS HD
-http://www.nilsattv.com:8080/bedri/gungor/1291
-#EXTINF:-1,(DE) Animal Planet
-http://www.nilsattv.com:8080/bedri/gungor/1634
-#EXTINF:-1,(DE) ANIXE HD
-http://www.nilsattv.com:8080/bedri/gungor/2418
-#EXTINF:-1,(DE) DISNEY CHANNEL HD
-http://www.nilsattv.com:8080/bedri/gungor/2425
-#EXTINF:-1,(DE) DISNEY JUNIOR HD
-http://www.nilsattv.com:8080/bedri/gungor/2423
-#EXTINF:-1,(DE) DISNEY XD HD
-http://www.nilsattv.com:8080/bedri/gungor/2424
-#EXTINF:-1,(DE) KINOWELT TV HD
-http://www.nilsattv.com:8080/bedri/gungor/2421
-#EXTINF:-1,(DE) NICK JR
-http://www.nilsattv.com:8080/bedri/gungor/2422
-#EXTINF:-1,(DE) PHOENIX HD
-http://www.nilsattv.com:8080/bedri/gungor/2419
-#EXTINF:-1,(DE) PLANET HD
-http://www.nilsattv.com:8080/bedri/gungor/2420
-#EXTINF:-1,(DE) E! ENTERTAINMENT HD
-http://www.nilsattv.com:8080/bedri/gungor/2427
-#EXTINF:-1,(NL) 24Kitchen
-http://www.nilsattv.com:8080/bedri/gungor/1893
-#EXTINF:-1,(NL) Boomerang
-http://www.nilsattv.com:8080/bedri/gungor/1894
-#EXTINF:-1,(NL) Film Action
-http://www.nilsattv.com:8080/bedri/gungor/1895
-#EXTINF:-1,(NL) Film Premiere HD
-http://www.nilsattv.com:8080/bedri/gungor/1897
-#EXTINF:-1,(NL) Film Drama
-http://www.nilsattv.com:8080/bedri/gungor/1898
-#EXTINF:-1,(NL) Film Family
-http://www.nilsattv.com:8080/bedri/gungor/1896
-#EXTINF:-1,(NL) npo 1 HD
-http://www.nilsattv.com:8080/bedri/gungor/1900
-#EXTINF:-1,(NL) FOX channel
-http://www.nilsattv.com:8080/bedri/gungor/1899
-#EXTINF:-1,(NL) npo 2 HD
-http://www.nilsattv.com:8080/bedri/gungor/1901
-#EXTINF:-1,(NL) npo 3 / Zapp HD
-http://www.nilsattv.com:8080/bedri/gungor/1902
