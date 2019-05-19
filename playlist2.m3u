@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Bein Sports 1 FHD (24/7)
-http://zoneiptv.us:8080/derbimac/16derbi16/11
-#EXTINF:-1,Bein Sports 1 HD (24/7)
-http://zoneiptv.us:8080/derbimac/16derbi16/8
 #EXTINF:-1,Bein Sports 1 HD
 http://livewipserver.duckdns.org:8888/live/pasa/pasa546/100.ts
 #EXTINF:-1,Bein Sports 1 HD
