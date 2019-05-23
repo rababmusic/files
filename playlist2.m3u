@@ -3,18 +3,10 @@
 http://livewipserver.duckdns.org:8888/live/pasa/pasa546/100.ts
 #EXTINF:-1,Bein Sports 1 HD
 http://185-8-178-138.livesports24.online/bsporttur1.m3u8
-#EXTINF:-1,Bein Sports 1 UHD
-http://tezkom.ksbox.life:8080/5513915147/gRvsFs43j7/18067
 #EXTINF:-1,Bein Sports 1 HD
-http://p5.giffy.be:8080/andrew/andrew/111415
+http://linux-app.tv:6204/12006036/mhamad-gazal07606739/15633
 #EXTINF:-1,Bein Sports 1 HD
-http://siptv-online.com:8789/Julien90/Julien90/28517
-#EXTINF:-1,Bein Sports 1 HD
-http://m-iptv.net:6204/said7s7yglzknsi/ssygshsgzgz7o/15639
-#EXTINF:-1,Bein Sports 1 HD
-http://iptvpro.watch-vision.net:8789/tinchi/Y6qMiEC7Ec/14004
-#EXTINF:-1,Bein Sports 1 HD
-http://l.land02.live:8080/LNcRw6GVVl/SLgNSmTHwq/198571
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/25865
 #EXTINF:-1,Bein Sports 1 HD
 http://cem1.ddns.net:8000/sw9144/1909.kuR/5637
 #EXTINF:-1,Bein Sports 1 SD
@@ -22,47 +14,25 @@ http://cem1.ddns.net:8000/sw9144/1909.kuR/8402
 #EXTINF:-1,Bein Sports 2 HD
 http://livewipserver.duckdns.org:8888/live/pasa/pasa546/107.ts
 #EXTINF:-1,Bein Sports 2 HD
-http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/20761
-#EXTINF:-1,Bein Sports 2 HD
-http://p5.giffy.be:8080/andrew/andrew/111414
-#EXTINF:-1,Bein Sports 2 UHD
-http://tezkom.ksbox.life:8080/5513915147/gRvsFs43j7/18066
-#EXTINF:-1,Bein Sports 2 HD
-http://l.land02.live:8080/LNcRw6GVVl/SLgNSmTHwq/198572
-#EXTINF:-1,Bein Sports 2 HD
-http://siptv-online.com:8789/Julien90/Julien90/28516
-#EXTINF:-1,Bein Sports 2 HD
-http://m-iptv.net:6204/said7s7yglzknsi/ssygshsgzgz7o/15638
-#EXTINF:-1,Bein Sports 2 HD
-http://iptvpro.watch-vision.net:8789/tinchi/Y6qMiEC7Ec/14003
-#EXTINF:-1,Bein Sports 2 HD
 http://cem1.ddns.net:8000/sw9144/1909.kuR/8407
+#EXTINF:-1,Bein Sports 2 HD
+http://linux-app.tv:6204/12006036/mhamad-gazal07606739/15632
+#EXTINF:-1,Bein Sports 2 HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/25864
 #EXTINF:-1,Bein Sports 2 HD
 http://176.10.117.12:8081/aypitv/SPORTHD2/playlist.m3u8
 #EXTINF:-1,Bein Sports 3 HD
-http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/20760
-#EXTINF:-1,Bein Sports 3 HD
-http://l.land02.live:8080/LNcRw6GVVl/SLgNSmTHwq/198573
-#EXTINF:-1,Bein Sports 3 HD
-http://siptv-online.com:8789/Julien90/Julien90/28515
-#EXTINF:-1,Bein Sports 3 UHD
-http://tezkom.ksbox.life:8080/5513915147/gRvsFs43j7/18065
-#EXTINF:-1,Bein Sports 3 HD
-http://m-iptv.net:6204/said7s7yglzknsi/ssygshsgzgz7o/15637
-#EXTINF:-1,Bein Sports 3 HD
-http://iptvpro.watch-vision.net:8789/tinchi/Y6qMiEC7Ec/14002
-#EXTINF:-1,Bein Sports 3 HD
 http://cem1.ddns.net:8000/sw9144/1909.kuR/8400
 #EXTINF:-1,Bein Sports 3 HD
+http://linux-app.tv:6204/12006036/mhamad-gazal07606739/15641
+#EXTINF:-1,Bein Sports 3 HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/25863
+#EXTINF:-1,Bein Sports 3 HD
 http://176.10.117.12:8081/aypitv/SportHD3/playlist.m3u8
-#EXTINF:-1,Bein Sports 4 UHD
-http://tezkom.ksbox.life:8080/5513915147/gRvsFs43j7/18064
 #EXTINF:-1,Bein Sports 4 HD
-http://m-iptv.net:6204/said7s7yglzknsi/ssygshsgzgz7o/15636
+http://linux-app.tv:6204/12006036/mhamad-gazal07606739/15631
 #EXTINF:-1,Bein Sports 4 HD
-http://iptvpro.watch-vision.net:8789/tinchi/Y6qMiEC7Ec/14001
-#EXTINF:-1,Bein Sports 4 HD
-http://siptv-online.com:8789/Julien90/Julien90/28514
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/25862
 #EXTINF:-1,Bein Sports 4 HD
 http://cem1.ddns.net:8000/sw9144/1909.kuR/8406
 #EXTINF:-1,Bein Sports Max 1 HD
@@ -76,13 +46,25 @@ http://livewipserver.duckdns.org:8888/live/pasa/pasa546/125.ts
 #EXTINF:-1,Tivibu Spor 1 HD
 http://176.10.117.12:8081/aypitv/Tivibu1/playlist.m3u8
 #EXTINF:-1,Tivibu Spor 1 HD
+http://cem1.ddns.net:8000/sw9144/1909.kuR/8393
+#EXTINF:-1,Tivibu Spor 1 HD
+http://linux-app.tv:6204/12006036/mhamad-gazal07606739/15650
+#EXTINF:-1,Tivibu Spor 1 HD
 http://livewipserver.duckdns.org:8888/live/pasa/pasa546/357.ts
 #EXTINF:-1,Tivibu Spor 2 HD
 http://176.10.117.12:8081/aypitv/TIVIBU2/playlist.m3u8
 #EXTINF:-1,Tivibu Spor 2 HD
+http://linux-app.tv:6204/12006036/mhamad-gazal07606739/15649
+#EXTINF:-1,Tivibu Spor 2 HD
+http://cem1.ddns.net:8000/sw9144/1909.kuR/8392
+#EXTINF:-1,Tivibu Spor 2 HD
 http://livewipserver.duckdns.org:8888/live/pasa/pasa546/358.ts
 #EXTINF:-1,Tivibu Spor 3 HD
 http://176.10.117.12:8081/aypitv/Tivibu3/playlist.m3u8
+#EXTINF:-1,Tivibu Spor 3 HD
+http://linux-app.tv:6204/12006036/mhamad-gazal07606739/15648
+#EXTINF:-1,Tivibu Spor 3 HD
+http://cem1.ddns.net:8000/sw9144/1909.kuR/8391
 #EXTINF:-1,Tivibu Spor 3 HD
 http://livewipserver.duckdns.org:8888/live/pasa/pasa546/359.ts
 #EXTINF:-1,S Sport HD (24/7)
