@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,-------------- | SPOR-go| --------------
+http://force102.com:8080/timur82/82timur/6508
 #EXTINF:-1,beIN Sports 1 Hd
 http://force102.com:8080/timur82/82timur/2
 #EXTINF:-1,BeIN Sports 1 Hd 265.hevc
@@ -597,21 +599,3 @@ http://force102.com:8080/timur82/82timur/2464
 http://force102.com:8080/timur82/82timur/2492
 #EXTINF:-1,Ulthd | Ntv Hd
 http://force102.com:8080/timur82/82timur/2491
-#EXTINF:-1,Ulthd | Haberturk Hd
-http://force102.com:8080/timur82/82timur/2483
-#EXTINF:-1,Ulthd | Power Tv Hd
-http://force102.com:8080/timur82/82timur/2496
-#EXTINF:-1,Ulthd | Power Turk Hd
-http://force102.com:8080/timur82/82timur/2495
-#EXTINF:-1,Ulthd | Number1 Tv Hd
-http://force102.com:8080/timur82/82timur/2494
-#EXTINF:-1,Ulthd | Number1 Turk Hd
-http://force102.com:8080/timur82/82timur/2493
-#EXTINF:-1,Ulthd | Lifeplus
-http://force102.com:8080/timur82/82timur/2487
-#EXTINF:-1,Ulthd | Semerkand Hd
-http://force102.com:8080/timur82/82timur/2497
-#EXTINF:-1,Ulthd | Tvnet Hd
-http://force102.com:8080/timur82/82timur/2505
-#EXTINF:-1,Ulthd | Fashionbox Hd
-http://force102.com:8080/timur82/82timur/2474
