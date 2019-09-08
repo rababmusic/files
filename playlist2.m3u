@@ -1,671 +1,289 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORTS HABER HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56842
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56869
-#EXTINF:-1,BEIN SPORTS 1 (720p)
-http://78.oscarcanli.com:8080/demircioglu/25102018/73477
-#EXTINF:-1,BEIN SPORTS 1 LOCAL
-http://78.oscarcanli.com:8080/demircioglu/25102018/56861
-#EXTINF:-1,BEIN SPORTS 1 (H265)
-http://78.oscarcanli.com:8080/demircioglu/25102018/73476
-#EXTINF:-1,BEIN SPORTS 1 (480)
-http://78.oscarcanli.com:8080/demircioglu/25102018/56920
-#EXTINF:-1,BEIN SPORTS 1 (576)
-http://78.oscarcanli.com:8080/demircioglu/25102018/73733
-#EXTINF:-1,BEINSPORT 1 HD (720P.)
-http://78.oscarcanli.com:8080/demircioglu/25102018/56848
-#EXTINF:-1,BEIN SPORTS 1 4K [MAC ZAMANI]
-http://78.oscarcanli.com:8080/demircioglu/25102018/56915
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56913
-#EXTINF:-1,BEIN SPORTS 2 FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56914
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56865
-#EXTINF:-1,BEIN SPORTS 3 FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/73478
-#EXTINF:-1,BEIN SPORTS 3 720P.
-http://78.oscarcanli.com:8080/demircioglu/25102018/56909
-#EXTINF:-1,BEIN SPORTS 4 FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56864
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56905
-#EXTINF:-1,BEIN SPORTS MAX 1 FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56844
-#EXTINF:-1,BEiN SPORTS MAX 1 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56902
-#EXTINF:-1,BEIN SPORTS MAX 2 FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56862
-#EXTINF:-1,BEiN SPORTS MAX 2 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56898
-#EXTINF:-1,TiViBUSPOR 1 FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56890
-#EXTINF:-1,TiViBUSPOR 1 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56891
-#EXTINF:-1,TiViBUSPOR 2 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56888
-#EXTINF:-1,TIVIBUSPOR 2 FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56889
-#EXTINF:-1,TiViBUSPOR 3 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56886
-#EXTINF:-1,TIVIBUSPOR 3 FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56887
-#EXTINF:-1,SMART SPOR FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56894
-#EXTINF:-1,SMART SPOR HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56895
-#EXTINF:-1,SMART SPOR 2
-http://78.oscarcanli.com:8080/demircioglu/25102018/71809
-#EXTINF:-1,EUROSPORT 1 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56835
-#EXTINF:-1,EUROSPORT 2 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56834
-#EXTINF:-1,S-SPORT FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56883
-#EXTINF:-1,S-SPORT HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56881
-#EXTINF:-1,S-SPORT FHD 2
-http://78.oscarcanli.com:8080/demircioglu/25102018/56893
-#EXTINF:-1,TJK TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56873
-#EXTINF:-1,TAY TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/73965
-#EXTINF:-1,A SPOR UHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56828
-#EXTINF:-1,A SPOR  HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/66887
-#EXTINF:-1,TR: TRT SPOR HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56827
-#EXTINF:-1,TRT SPOR FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56874
-#EXTINF:-1,MALATYA SPOR
-http://78.oscarcanli.com:8080/demircioglu/25102018/66594
-#EXTINF:-1,FB TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56877
-#EXTINF:-1,GS TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56876
-#EXTINF:-1,BJK TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56878
-#EXTINF:-1,iDMAN TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56836
-#EXTINF:-1,SPORTS TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/56872
-#EXTINF:-1,NBA TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56853
-#EXTINF:-1,=====SINEMA=====
-http://78.oscarcanli.com:8080/demircioglu/25102018/52766
-#EXTINF:-1,TR | BLU VIZYON INFO
-http://78.oscarcanli.com:8080/demircioglu/25102018/73964
-#EXTINF:-1,TR | BLU VIZYON 1
-http://78.oscarcanli.com:8080/demircioglu/25102018/73963
-#EXTINF:-1,TR | BLU VIZYON 2
-http://78.oscarcanli.com:8080/demircioglu/25102018/73962
-#EXTINF:-1,TR | BLU VIZYON 3
-http://78.oscarcanli.com:8080/demircioglu/25102018/73961
-#EXTINF:-1,TR | BLU VIZYON 4
-http://78.oscarcanli.com:8080/demircioglu/25102018/73960
-#EXTINF:-1,TR | BLU VIZYON 5
-http://78.oscarcanli.com:8080/demircioglu/25102018/73959
-#EXTINF:-1,TR | BLU VIZYON 6
-http://78.oscarcanli.com:8080/demircioglu/25102018/73958
-#EXTINF:-1,TR | BLU VIZYON 7
-http://78.oscarcanli.com:8080/demircioglu/25102018/73957
-#EXTINF:-1,TR | BLU VIZYON 8
-http://78.oscarcanli.com:8080/demircioglu/25102018/73956
-#EXTINF:-1,TR | BLU VIZYON 9
-http://78.oscarcanli.com:8080/demircioglu/25102018/73955
-#EXTINF:-1,TR | BLU VIZYON 10
-http://78.oscarcanli.com:8080/demircioglu/25102018/73954
-#EXTINF:-1,TR | TVR INFO
-http://78.oscarcanli.com:8080/demircioglu/25102018/74093
-#EXTINF:-1,TR | TVR SINEMA 1
-http://78.oscarcanli.com:8080/demircioglu/25102018/74092
-#EXTINF:-1,TR | TVR SINEMA 2
-http://78.oscarcanli.com:8080/demircioglu/25102018/74091
-#EXTINF:-1,TR | TVR SINEMA 3
-http://78.oscarcanli.com:8080/demircioglu/25102018/74090
-#EXTINF:-1,TR | TVR SINEMA 4
-http://78.oscarcanli.com:8080/demircioglu/25102018/74089
-#EXTINF:-1,TR | TVR SINEMA 5
-http://78.oscarcanli.com:8080/demircioglu/25102018/74088
-#EXTINF:-1,TR | TVR SINEMA 6
-http://78.oscarcanli.com:8080/demircioglu/25102018/74087
-#EXTINF:-1,BEIN MOVIES ACTION HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56720
-#EXTINF:-1,BEIN MOVIES ACTION 2 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/68258
-#EXTINF:-1,BEIN MOVIES FAMILY HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56716
-#EXTINF:-1,BEIN MOVIES PREMIER 2 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56717
-#EXTINF:-1,BEIN MOVIES PREMIER HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56718
-#EXTINF:-1,BEIN MOVIES STARS HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56715
-#EXTINF:-1,BEIN MOVIES TURK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56721
-#EXTINF:-1,BEIN SERIES COMEDY HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56711
-#EXTINF:-1,BEIN SERIES DRAMA HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56712
-#EXTINF:-1,BEIN SERIES SCI-FI HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56714
-#EXTINF:-1,BEIN SERIES VICE HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56713
-#EXTINF:-1,BEIN BOX OFFICE 1
-http://78.oscarcanli.com:8080/demircioglu/25102018/56709
-#EXTINF:-1,BEIN BOX OFFICE 2
-http://78.oscarcanli.com:8080/demircioglu/25102018/56708
-#EXTINF:-1,BEIN BOX OFFICE 3
-http://78.oscarcanli.com:8080/demircioglu/25102018/56707
-#EXTINF:-1,MOVIE SMART ACTION HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56756
-#EXTINF:-1,MOVIE SMART CLASSIC HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56752
-#EXTINF:-1,MOVIE SMART FAMILY HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56753
-#EXTINF:-1,MOVIE SMART FEST HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56754
-#EXTINF:-1,MOVIE SMART GOLD HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56755
-#EXTINF:-1,MOVIE SMART PLATIN 2 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56757
-#EXTINF:-1,MOVIE SMART PLATIN HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56758
-#EXTINF:-1,MOVIE SMART PREMIUM 2 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56759
-#EXTINF:-1,MOVIE SMART PREMIUM HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56760
-#EXTINF:-1,MOVIE SMART TURK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56761
-#EXTINF:-1,GULDUR GULDUR SHOW HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56750
-#EXTINF:-1,DIZI SMART PREMIUM HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56751
-#EXTINF:-1,FOX CRIME HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56657
-#EXTINF:-1,FOX life
-http://78.oscarcanli.com:8080/demircioglu/25102018/56658
-#EXTINF:-1,FX HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56659
-#EXTINF:-1,SiNEMA TV 1001 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56741
-#EXTINF:-1,SiNEMA TV AiLE HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56743
-#EXTINF:-1,SiNEMA TV AKSiYON HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56744
-#EXTINF:-1,SiNEMA TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56745
-#EXTINF:-1,SiNEMA TV KOMEDi HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56742
-#EXTINF:-1,SiNEMA TV YERLi HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56746
-#EXTINF:-1,TVR TURK TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/68867
-#EXTINF:-1,TVR CHGRD
-http://78.oscarcanli.com:8080/demircioglu/25102018/68848
-#EXTINF:-1,TVR SINEMA YESILCAM
-http://78.oscarcanli.com:8080/demircioglu/25102018/73953
-#EXTINF:-1,KEMAL SUNAL TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/56690
-#EXTINF:-1,TR | METROPOLHD AKSIYON
-http://78.oscarcanli.com:8080/demircioglu/25102018/73923
-#EXTINF:-1,TR | METROPOLHD BILIM KURGU
-http://78.oscarcanli.com:8080/demircioglu/25102018/73922
-#EXTINF:-1,TR | METROPOLHD DRAM
-http://78.oscarcanli.com:8080/demircioglu/25102018/73921
-#EXTINF:-1,TR | METROPOLHD FANTASTIK
-http://78.oscarcanli.com:8080/demircioglu/25102018/73920
-#EXTINF:-1,TR | METROPOLHD KOMEDI
-http://78.oscarcanli.com:8080/demircioglu/25102018/73919
-#EXTINF:-1,TR | METROPOLHD KORKU
-http://78.oscarcanli.com:8080/demircioglu/25102018/73918
-#EXTINF:-1,BLACK 4K HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69689
-#EXTINF:-1,BLACK ACTION HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69688
-#EXTINF:-1,BLACK CLASSIC HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69684
-#EXTINF:-1,BLACK COMEDY HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69683
-#EXTINF:-1,BLACK DOCUMENTARY HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69681
-#EXTINF:-1,BLACK DRAM HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69682
-#EXTINF:-1,BLACK HORROR HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69680
-#EXTINF:-1,BLACK LOVE HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69679
-#EXTINF:-1,BLACK OSCAR HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69678
-#EXTINF:-1,BLACK PREMIER HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69677
-#EXTINF:-1,BLACK TURK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69685
-#EXTINF:-1,BLACK VIZYON 2 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69686
-#EXTINF:-1,BLACK VIZYON HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69687
-#EXTINF:-1,BLACK WEST HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69676
-#EXTINF:-1,=====ULUSAL KANALLAR=====
-http://78.oscarcanli.com:8080/demircioglu/25102018/52760
-#EXTINF:-1,===== ULUSAL =====
-http://78.oscarcanli.com:8080/demircioglu/25102018/68321
-#EXTINF:-1,TRT 4K (2160P)
-http://78.oscarcanli.com:8080/demircioglu/25102018/57041
-#EXTINF:-1,TRT1 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57201
-#EXTINF:-1,ATV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57198
-#EXTINF:-1,SHOWTV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57192
-#EXTINF:-1,STARTV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57191
-#EXTINF:-1,FOXTV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57197
-#EXTINF:-1,KANALD HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57190
-#EXTINF:-1,KANAL7 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57195
-#EXTINF:-1,BEYAZTV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57196
-#EXTINF:-1,A2 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57199
-#EXTINF:-1,TV8 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57194
-#EXTINF:-1,TV8.5 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57193
-#EXTINF:-1,HALK TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56802
-#EXTINF:-1,ULUSAL TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56630
-#EXTINF:-1,TELE 1 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56629
-#EXTINF:-1,CEM TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56950
-#EXTINF:-1,YOL TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67685
-#EXTINF:-1,ATV SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/73934
-#EXTINF:-1,BEYAZ TV SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/73936
-#EXTINF:-1,STAR TV SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/73935
-#EXTINF:-1,SHOW MAX HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57021
-#EXTINF:-1,TRT 1 FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57039
-#EXTINF:-1,ATV FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57036
-#EXTINF:-1,SHOW TV FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57034
-#EXTINF:-1,STAR TV FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57032
-#EXTINF:-1,KANAL D FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57030
-#EXTINF:-1,TV 8 FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57026
-#EXTINF:-1,TV 8.5 FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57025
-#EXTINF:-1,BEYAZ TV FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57018
-#EXTINF:-1,KANAL 7 FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57024
-#EXTINF:-1,FOX TV FHD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57028
-#EXTINF:-1,TV8 INT
-http://78.oscarcanli.com:8080/demircioglu/25102018/57006
-#EXTINF:-1,EURO D
-http://78.oscarcanli.com:8080/demircioglu/25102018/57008
-#EXTINF:-1,EURO STAR
-http://78.oscarcanli.com:8080/demircioglu/25102018/57007
-#EXTINF:-1,ATV AVRUPA
-http://78.oscarcanli.com:8080/demircioglu/25102018/57009
-#EXTINF:-1,SHOW TURK
-http://78.oscarcanli.com:8080/demircioglu/25102018/57010
-#EXTINF:-1,===== TR ULUSAL UHD =====
-http://78.oscarcanli.com:8080/demircioglu/25102018/66877
-#EXTINF:-1,=====HABER=====
-http://78.oscarcanli.com:8080/demircioglu/25102018/52782
-#EXTINF:-1,NTV HABER HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56791
-#EXTINF:-1,CNN TURK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56793
-#EXTINF:-1,HABERTURK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56792
-#EXTINF:-1,KANAL 24 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56789
+#EXTINF:-1,Bein Sports 1
+http://iptv-janberyan.com:25461/63200224025540/63200224025540/5478
+#EXTINF:-1,Bein Sports 1
+http://omega.ws:8080/localhd/211VGH699/2049
+#EXTINF:-1,Bein Sports 2
+http://iptv-janberyan.com:25461/63200224025540/63200224025540/5476
+#EXTINF:-1,Bein Sports 2
+http://omega.ws:8080/localhd/211VGH699/2048
+#EXTINF:-1,Bein Sports 3
+http://iptv-janberyan.com:25461/63200224025540/63200224025540/5477
+#EXTINF:-1,Bein Sports 3
+http://omega.ws:8080/localhd/211VGH699/2047
+#EXTINF:-1,Bein Sports 4
+http://omega.ws:8080/localhd/211VGH699/2046
+#EXTINF:-1,Tivibu Sport 1
+http://omega.ws:8080/localhd/211VGH699/4636
+#EXTINF:-1,Tivibu Sport 2
+http://omega.ws:8080/localhd/211VGH699/4633
+#EXTINF:-1,Tivibu Sport 3
+http://omega.ws:8080/localhd/211VGH699/4634
+#EXTINF:-1,Tivibu Sport 4
+http://omega.ws:8080/localhd/211VGH699/4635
+#EXTINF:-1,NTV SPOR HD
+http://omega.ws:8080/localhd/211VGH699/2025
+#EXTINF:-1,TRT SPOR HD
+http://omega.ws:8080/localhd/211VGH699/2026
+#EXTINF:-1,S SPORT HD
+http://omega.ws:8080/localhd/211VGH699/2029
 #EXTINF:-1,A HABER HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56795
-#EXTINF:-1,TR-VIP: A NEWS HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56633
-#EXTINF:-1,A PARA HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56796
-#EXTINF:-1,TRT HABER HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56799
-#EXTINF:-1,ULKETV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56803
-#EXTINF:-1,BLOOMBERGHT HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56797
-#EXTINF:-1,EKOTURK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56798
-#EXTINF:-1,TGRT HABER HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56790
-#EXTINF:-1,TRT TURK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56800
-#EXTINF:-1,GLOBAL HABER HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56794
-#EXTINF:-1,24 TV SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/66891
-#EXTINF:-1,CNNTURK SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/66884
-#EXTINF:-1,ULKE TV SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/66892
-#EXTINF:-1,A HABER SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/66888
-#EXTINF:-1,NTV SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/66889
-#EXTINF:-1,HABERTURK SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/66890
-#EXTINF:-1,BLOOMBERG TV SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/66885
-#EXTINF:-1,360 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57017
-#EXTINF:-1,HALK TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/56631
-#EXTINF:-1,TVNET HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56804
-#EXTINF:-1,TR- KANAL B
-http://78.oscarcanli.com:8080/demircioglu/25102018/56995
-#EXTINF:-1,TV 100
-http://78.oscarcanli.com:8080/demircioglu/25102018/56628
-#EXTINF:-1,ARTI 1
-http://78.oscarcanli.com:8080/demircioglu/25102018/56627
-#EXTINF:-1,KANAL7 AVRUPA
-http://78.oscarcanli.com:8080/demircioglu/25102018/57005
-#EXTINF:-1,TRT 2 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57038
-#EXTINF:-1,UZAY HABER
-http://78.oscarcanli.com:8080/demircioglu/25102018/74086
-#EXTINF:-1,=====DINI=====
-http://78.oscarcanli.com:8080/demircioglu/25102018/52789
-#EXTINF:-1,SEMERKAND
-http://78.oscarcanli.com:8080/demircioglu/25102018/56942
-#EXTINF:-1,ON 4 TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/56938
-#EXTINF:-1,DIYANET TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/56943
-#EXTINF:-1,DOST TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/56944
-#EXTINF:-1,LALEGUL TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/56941
-#EXTINF:-1,HILAL TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/73937
-#EXTINF:-1,=====COCUK=====
-http://78.oscarcanli.com:8080/demircioglu/25102018/52793
+http://omega.ws:8080/localhd/211VGH699/2016
+#EXTINF:-1,A2 TV HD
+http://omega.ws:8080/localhd/211VGH699/2042
+#EXTINF:-1,ANIMAL PLANET HD
+http://omega.ws:8080/localhd/211VGH699/2001
+#EXTINF:-1,ATV AVRUPA
+http://omega.ws:8080/localhd/211VGH699/2043
+#EXTINF:-1,ATV HD
+http://omega.ws:8080/localhd/211VGH699/2044
 #EXTINF:-1,BABY TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56780
-#EXTINF:-1,BABY FIRST
-http://78.oscarcanli.com:8080/demircioglu/25102018/56781
-#EXTINF:-1,TRT COCUK
-http://78.oscarcanli.com:8080/demircioglu/25102018/56788
-#EXTINF:-1,SMART COCUK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56747
-#EXTINF:-1,BOOMERANG HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56779
+http://omega.ws:8080/localhd/211VGH699/2020
+#EXTINF:-1,A SPOR HD
+http://omega.ws:8080/localhd/211VGH699/2024
+#EXTINF:-1,BLOOMBERG HT HD
+http://omega.ws:8080/localhd/211VGH699/2010
 #EXTINF:-1,CARTOON NETWORK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56778
-#EXTINF:-1,DISNEY CHANNEL HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56785
-#EXTINF:-1,DUCK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/74284
-#EXTINF:-1,MINICA GO HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56777
-#EXTINF:-1,MINIKA COCUK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56776
-#EXTINF:-1,NICK JR HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56786
-#EXTINF:-1,NICKELODEON HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56787
-#EXTINF:-1,TR- CBEEBIES TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/56724
-#EXTINF:-1,NILOYA TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/56722
-#EXTINF:-1,BLACK ANIMASYON HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/69690
-#EXTINF:-1,=====MUZIK=====
-http://78.oscarcanli.com:8080/demircioglu/25102018/52774
-#EXTINF:-1,TRT MUZIK
-http://78.oscarcanli.com:8080/demircioglu/25102018/56618
-#EXTINF:-1,KRAL TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56826
-#EXTINF:-1,KRAL POP HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56825
-#EXTINF:-1,DREAM TURK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56824
-#EXTINF:-1,NR1 HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56821
-#EXTINF:-1,NR1 TURK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56822
-#EXTINF:-1,NR1 ASK
-http://78.oscarcanli.com:8080/demircioglu/25102018/71788
-#EXTINF:-1,NR1 DANCE
-http://78.oscarcanli.com:8080/demircioglu/25102018/71781
-#EXTINF:-1,POWER TURK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56820
-#EXTINF:-1,DREAM TURK
-http://78.oscarcanli.com:8080/demircioglu/25102018/66882
-#EXTINF:-1,DREAM TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/66881
-#EXTINF:-1,POWER TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/66879
-#EXTINF:-1,DREAM TURK.
-http://78.oscarcanli.com:8080/demircioglu/25102018/56617
-#EXTINF:-1,=====BELGESEL=====
-http://78.oscarcanli.com:8080/demircioglu/25102018/52798
-#EXTINF:-1,BEIN GURME HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56650
-#EXTINF:-1,BEIN IZ HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56651
-#EXTINF:-1,24 KITCHEN HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/68256
-#EXTINF:-1,NAT GEO WILD HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56654
-#EXTINF:-1,NAT GEO PEOPLE HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56642
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56653
-#EXTINF:-1,TLC TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/57015
-#EXTINF:-1,ANiMAL PLANET HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56807
-#EXTINF:-1,DISCOWERY SHOWCASE HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56812
-#EXTINF:-1,DiSCOWERY CHANNEL HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56813
-#EXTINF:-1,Discowery IDX HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56810
+http://omega.ws:8080/localhd/211VGH699/2022
+#EXTINF:-1,CNN TURK FHD
+http://omega.ws:8080/localhd/211VGH699/2013
+#EXTINF:-1,CNN TURK HD
+http://omega.ws:8080/localhd/211VGH699/2012
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://omega.ws:8080/localhd/211VGH699/2007
 #EXTINF:-1,DISCOVERY SCIENCE HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56647
-#EXTINF:-1,DiSCOWERY SCiENCE HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56811
-#EXTINF:-1,SCiENCE& ViE HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/68378
-#EXTINF:-1,ANiMAUX HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/68252
-#EXTINF:-1,CHASSE&PECHE HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/66908
-#EXTINF:-1,TREK HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56806
-#EXTINF:-1,TVR WILD HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/68260
-#EXTINF:-1,DA VINCI LEARNING HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56648
-#EXTINF:-1,BBC EARTH HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56643
-#EXTINF:-1,VIASAT HISTORY HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/68257
+http://omega.ws:8080/localhd/211VGH699/2008
+#EXTINF:-1,DISNEY HD
+http://omega.ws:8080/localhd/211VGH699/2018
+#EXTINF:-1,DISNEY JUNIOR
+http://omega.ws:8080/localhd/211VGH699/1999
+#EXTINF:-1,DISNEY XD
+http://omega.ws:8080/localhd/211VGH699/1998
+#EXTINF:-1,DREAM TURK TV
+http://omega.ws:8080/localhd/211VGH699/2000
+#EXTINF:-1,DREAM TV SD
+http://omega.ws:8080/localhd/211VGH699/1997
+#EXTINF:-1,EURO D
+http://omega.ws:8080/localhd/211VGH699/2040
+#EXTINF:-1,EUROSPORT 1 HD
+http://omega.ws:8080/localhd/211VGH699/2028
+#EXTINF:-1,EUROSPORT 2 HD
+http://omega.ws:8080/localhd/211VGH699/2027
+#EXTINF:-1,FOX TV HD
+http://omega.ws:8080/localhd/211VGH699/2032
 #EXTINF:-1,HISTORY HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56655
-#EXTINF:-1,DISCOVERY DTX HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56649
-#EXTINF:-1,DMAX HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56805
-#EXTINF:-1,AUTOMOTO HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/68255
-#EXTINF:-1,TRT BELGESEL
-http://78.oscarcanli.com:8080/demircioglu/25102018/66904
-#EXTINF:-1,TRT BELGESEL HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56817
-#EXTINF:-1,TGRT BELGESEL
-http://78.oscarcanli.com:8080/demircioglu/25102018/68254
-#EXTINF:-1,YABAN TV HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/56818
-#EXTINF:-1,AV TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/73966
-#EXTINF:-1,CiFTCi TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/56999
-#EXTINF:-1,MAKINE TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/68253
-#EXTINF:-1,ZIRAAT TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/68850
-#EXTINF:-1,TARIM TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/68858
-#EXTINF:-1,=====YEREL KANALLAR
-http://78.oscarcanli.com:8080/demircioglu/25102018/52757
-#EXTINF:-1,AKILLI TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/74077
-#EXTINF:-1,AKSU TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/74078
-#EXTINF:-1,BEYKENT TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/74082
-#EXTINF:-1,DEHA TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/74083
-#EXTINF:-1,TYT TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/74098
-#EXTINF:-1,VUSLAT TV SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/74099
-#EXTINF:-1,DIYAR TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/74084
-#EXTINF:-1,HRT AKDENIZ TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/74081
-#EXTINF:-1,MERCAN TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/74080
-#EXTINF:-1,ON6
-http://78.oscarcanli.com:8080/demircioglu/25102018/74079
-#EXTINF:-1,GUNEYDOGU TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/74085
-#EXTINF:-1,TEMPO TV SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/74101
-#EXTINF:-1,BEYKENT TV SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/74102
-#EXTINF:-1,SAT7TURK SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/74100
-#EXTINF:-1,KENT TURK
-http://78.oscarcanli.com:8080/demircioglu/25102018/74282
-#EXTINF:-1,TVDEN SD
-http://78.oscarcanli.com:8080/demircioglu/25102018/74283
-#EXTINF:-1,TR | KANAL 42
-http://78.oscarcanli.com:8080/demircioglu/25102018/72949
-#EXTINF:-1,TR: CAY TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67655
-#EXTINF:-1,TR: IBB TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67639
-#EXTINF:-1,TR TBMM TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/68860
-#EXTINF:-1,-KANAL URFA
-http://78.oscarcanli.com:8080/demircioglu/25102018/67623
-#EXTINF:-1,-KON TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67619
-#EXTINF:-1,-PAMUKKALE TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67610
-#EXTINF:-1,TR:TON TV (Canakkale)
-http://78.oscarcanli.com:8080/demircioglu/25102018/68851
-#EXTINF:-1,TR: TURKMENELI TV HD+
-http://78.oscarcanli.com:8080/demircioglu/25102018/68887
-#EXTINF:-1,TR:Dugun TV (Avrupa)
-http://78.oscarcanli.com:8080/demircioglu/25102018/68852
-#EXTINF:-1,TR:FANATIK TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/68853
-#EXTINF:-1,TR: KANAL D ROMANIA
-http://78.oscarcanli.com:8080/demircioglu/25102018/67609
-#EXTINF:-1,TR:Dogus Tv (Ankara)
-http://78.oscarcanli.com:8080/demircioglu/25102018/68855
-#EXTINF:-1,TR:Park Tv
-http://78.oscarcanli.com:8080/demircioglu/25102018/68856
-#EXTINF:-1,TR |  BEREKET TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67863
-#EXTINF:-1,TR |  BEREKET HAYVANCILIK
-http://78.oscarcanli.com:8080/demircioglu/25102018/67862
-#EXTINF:-1,TR |  BURSA TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67856
-#EXTINF:-1,TR SRT SIVAS TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67855
-#EXTINF:-1,TR TEK RUMELI
-http://78.oscarcanli.com:8080/demircioglu/25102018/68859
-#EXTINF:-1,TR |  CINE 5
-http://78.oscarcanli.com:8080/demircioglu/25102018/67851
-#EXTINF:-1,TR |  EDIRNE TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67836
-#EXTINF:-1,TR |  EGE TURK
-http://78.oscarcanli.com:8080/demircioglu/25102018/67835
-#EXTINF:-1,TR:BEN TV (Izmir)
-http://78.oscarcanli.com:8080/demircioglu/25102018/67834
-#EXTINF:-1,TR |  HABER 61 TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67811
-#EXTINF:-1,TR: TV EM
-http://78.oscarcanli.com:8080/demircioglu/25102018/67806
-#EXTINF:-1,TR |  KRT TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67805
-#EXTINF:-1,TR:ICEL TV (Mersin)
-http://78.oscarcanli.com:8080/demircioglu/25102018/67804
-#EXTINF:-1,TR |  ISPARTA TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67802
-#EXTINF:-1,TR: VATAN TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67683
-#EXTINF:-1,TR: MAVI KARADENIZ TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67684
-#EXTINF:-1,TR |  KANAL 34
-http://78.oscarcanli.com:8080/demircioglu/25102018/67791
-#EXTINF:-1,TR |  KANAL 43
-http://78.oscarcanli.com:8080/demircioglu/25102018/67788
-#EXTINF:-1,TR: ALTIN ORDU
-http://78.oscarcanli.com:8080/demircioglu/25102018/67780
-#EXTINF:-1,TR |  KOY  TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67769
-#EXTINF:-1,TR: KANAL ANTALYA
-http://78.oscarcanli.com:8080/demircioglu/25102018/67766
-#EXTINF:-1,TR |  MALATYA TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67762
-#EXTINF:-1,REHBER TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67736
-#EXTINF:-1,TR: KOZA TV ADANA
-http://78.oscarcanli.com:8080/demircioglu/25102018/67728
-#EXTINF:-1,TR: ES TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67719
-#EXTINF:-1,TR |  TRT AVAZ
-http://78.oscarcanli.com:8080/demircioglu/25102018/67716
-#EXTINF:-1,TR: KADIRGA TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67705
-#EXTINF:-1,TR: KANAL 3
-http://78.oscarcanli.com:8080/demircioglu/25102018/67704
-#EXTINF:-1,TR |  TV 5
-http://78.oscarcanli.com:8080/demircioglu/25102018/67702
-#EXTINF:-1,TR: TV 1
-http://78.oscarcanli.com:8080/demircioglu/25102018/67700
-#EXTINF:-1,TR: KANAL V
-http://78.oscarcanli.com:8080/demircioglu/25102018/67698
-#EXTINF:-1,TR |  TVT
-http://78.oscarcanli.com:8080/demircioglu/25102018/67697
-#EXTINF:-1,TR |  UcanKus
-http://78.oscarcanli.com:8080/demircioglu/25102018/67696
-#EXTINF:-1,TR: G.ANTEP OLAY
-http://78.oscarcanli.com:8080/demircioglu/25102018/67692
-#EXTINF:-1,TR: WOMAN TV
-http://78.oscarcanli.com:8080/demircioglu/25102018/67691
-#EXTINF:-1,TR: TV 4
-http://78.oscarcanli.com:8080/demircioglu/25102018/67686
-#EXTINF:-1,TRT OKUL HD
-http://78.oscarcanli.com:8080/demircioglu/25102018/67594
+http://omega.ws:8080/localhd/211VGH699/2006
+#EXTINF:-1,KANAL 24 HD
+http://omega.ws:8080/localhd/211VGH699/2014
+#EXTINF:-1,KANAL 7 HD
+http://omega.ws:8080/localhd/211VGH699/2031
+#EXTINF:-1,KANAL D HD
+http://omega.ws:8080/localhd/211VGH699/2041
+#EXTINF:-1,MINIKA GO HD
+http://omega.ws:8080/localhd/211VGH699/2021
+#EXTINF:-1,NAT GEO PEOPLE HD
+http://omega.ws:8080/localhd/211VGH699/2004
+#EXTINF:-1,NAT GEO WILD HD
+http://omega.ws:8080/localhd/211VGH699/2003
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://omega.ws:8080/localhd/211VGH699/2002
+#EXTINF:-1,NICK JR HD
+http://omega.ws:8080/localhd/211VGH699/2023
+#EXTINF:-1,NTV HD
+http://omega.ws:8080/localhd/211VGH699/2015
+#EXTINF:-1,SHOW MAX
+http://omega.ws:8080/localhd/211VGH699/2037
+#EXTINF:-1,SHOW TV HD
+http://omega.ws:8080/localhd/211VGH699/2038
+#EXTINF:-1,STAR TV HD
+http://omega.ws:8080/localhd/211VGH699/2039
+#EXTINF:-1,TEVE 2 HD
+http://omega.ws:8080/localhd/211VGH699/2033
+#EXTINF:-1,TGRT HABER HD
+http://omega.ws:8080/localhd/211VGH699/2011
+#EXTINF:-1,TLC HD
+http://omega.ws:8080/localhd/211VGH699/2005
+#EXTINF:-1,TRT 1 HD
+http://omega.ws:8080/localhd/211VGH699/2045
+#EXTINF:-1,TRT 4K
+http://omega.ws:8080/localhd/211VGH699/5226
+#EXTINF:-1,TRT BELGESEL  HD
+http://omega.ws:8080/localhd/211VGH699/2009
+#EXTINF:-1,TRT COCUK
+http://omega.ws:8080/localhd/211VGH699/2019
+#EXTINF:-1,TRT HABER HD
+http://omega.ws:8080/localhd/211VGH699/2017
+#EXTINF:-1,TRT TÜRK HD
+http://omega.ws:8080/localhd/211VGH699/2030
+#EXTINF:-1,TV 8 HD
+http://omega.ws:8080/localhd/211VGH699/2036
+#EXTINF:-1,TV 8 INT
+http://omega.ws:8080/localhd/211VGH699/2035
+#EXTINF:-1,TV 8.5 HD
+http://omega.ws:8080/localhd/211VGH699/2034
+#EXTINF:-1,BEYAZ TV
+http://omega.ws:8080/localhd/211VGH699/13038
+#EXTINF:-1,CNN TURK
+http://omega.ws:8080/localhd/211VGH699/13037
+#EXTINF:-1,360
+http://omega.ws:8080/localhd/211VGH699/13664
+#EXTINF:-1,Dream
+http://omega.ws:8080/localhd/211VGH699/13667
+#EXTINF:-1,KRAL POP
+http://omega.ws:8080/localhd/211VGH699/13666
+#EXTINF:-1,|UK| BBC 1
+http://omega.ws:8080/localhd/211VGH699/430
+#EXTINF:-1,|UK| BBC 2
+http://omega.ws:8080/localhd/211VGH699/429
+#EXTINF:-1,|UK| BBC 3
+http://omega.ws:8080/localhd/211VGH699/428
+#EXTINF:-1,|UK|BBC 4
+http://omega.ws:8080/localhd/211VGH699/427
+#EXTINF:-1,|UK| ITV 1
+http://omega.ws:8080/localhd/211VGH699/426
+#EXTINF:-1,|UK| ITV 2
+http://omega.ws:8080/localhd/211VGH699/425
+#EXTINF:-1,|UK| ITV 3
+http://omega.ws:8080/localhd/211VGH699/424
+#EXTINF:-1,UK | ITV 4
+http://omega.ws:8080/localhd/211VGH699/423
+#EXTINF:-1,|UK| RTE One
+http://omega.ws:8080/localhd/211VGH699/5205
+#EXTINF:-1,|UK| RTE Two
+http://omega.ws:8080/localhd/211VGH699/5204
+#EXTINF:-1,|UK|SKY NEWS
+http://omega.ws:8080/localhd/211VGH699/419
+#EXTINF:-1,|UK|BBC NEWS
+http://omega.ws:8080/localhd/211VGH699/420
+#EXTINF:-1,|UK| SKY 3E
+http://omega.ws:8080/localhd/211VGH699/416
+#EXTINF:-1,|UK|SKY ITV BE
+http://omega.ws:8080/localhd/211VGH699/417
+#EXTINF:-1,|UK|RTE ONE
+http://omega.ws:8080/localhd/211VGH699/422
+#EXTINF:-1,|UK|RTE TWO
+http://omega.ws:8080/localhd/211VGH699/421
+#EXTINF:-1,|UK|LONDON LIVE
+http://omega.ws:8080/localhd/211VGH699/455
+#EXTINF:-1,|UK|SKY ARTS
+http://omega.ws:8080/localhd/211VGH699/418
+#EXTINF:-1,|UK| GOLD
+http://omega.ws:8080/localhd/211VGH699/449
+#EXTINF:-1,|UK|SKY CHALLENGE
+http://omega.ws:8080/localhd/211VGH699/450
+#EXTINF:-1,|UK| CHANNEL 4
+http://omega.ws:8080/localhd/211VGH699/415
+#EXTINF:-1,|UK| CHANNEL 5
+http://omega.ws:8080/localhd/211VGH699/414
+#EXTINF:-1,|UK| Dmax
+http://omega.ws:8080/localhd/211VGH699/445
+#EXTINF:-1,|UK| FOX
+http://omega.ws:8080/localhd/211VGH699/444
+#EXTINF:-1,|UK| Food Network
+http://omega.ws:8080/localhd/211VGH699/413
+#EXTINF:-1,|UK| HOME & HEALTH
+http://omega.ws:8080/localhd/211VGH699/392
+#EXTINF:-1,|UK| SKY SPORTS NEWS
+http://omega.ws:8080/localhd/211VGH699/412
+#EXTINF:-1,|UK| SKY FOOTBALL
+http://omega.ws:8080/localhd/211VGH699/410
+#EXTINF:-1,|UK| SKY PREMIER LEAGUE
+http://omega.ws:8080/localhd/211VGH699/409
+#EXTINF:-1,|UK| SKY Sport MAIN EVENT
+http://omega.ws:8080/localhd/211VGH699/411
+#EXTINF:-1,|UK| SKY SPORTS ACTION
+http://omega.ws:8080/localhd/211VGH699/408
+#EXTINF:-1,|UK| BT SPORTS 1
+http://omega.ws:8080/localhd/211VGH699/406
+#EXTINF:-1,|UK| BT SPORTS 2
+http://omega.ws:8080/localhd/211VGH699/405
+#EXTINF:-1,|UK| BT SPORTS 3
+http://omega.ws:8080/localhd/211VGH699/404
+#EXTINF:-1,|UK| Fuel TV
+http://omega.ws:8080/localhd/211VGH699/399
+#EXTINF:-1,|UK| Setanta Sport
+http://omega.ws:8080/localhd/211VGH699/401
+#EXTINF:-1,|UK| BT SPORT EXTRA
+http://omega.ws:8080/localhd/211VGH699/403
+#EXTINF:-1,|UK| BT SPORT ESPN
+http://omega.ws:8080/localhd/211VGH699/402
+#EXTINF:-1,|UK| SKY SPORTS F1
+http://omega.ws:8080/localhd/211VGH699/400
+#EXTINF:-1,|UK| Sky Sports Arena
+http://omega.ws:8080/localhd/211VGH699/407
+#EXTINF:-1,|UK| Animal Planet
+http://omega.ws:8080/localhd/211VGH699/389
+#EXTINF:-1,|UK| HISTORY
+http://omega.ws:8080/localhd/211VGH699/391
+#EXTINF:-1,|UK| NAT GEO HD
+http://omega.ws:8080/localhd/211VGH699/397
+#EXTINF:-1,|UK| NAT GEO WILD
+http://omega.ws:8080/localhd/211VGH699/396
+#EXTINF:-1,|UK| QUEST
+http://omega.ws:8080/localhd/211VGH699/390
+#EXTINF:-1,|UK| ID
+http://omega.ws:8080/localhd/211VGH699/447
+#EXTINF:-1,|UK| DISCOVERY CHANNEL
+http://omega.ws:8080/localhd/211VGH699/393
+#EXTINF:-1,|UK| DISCOVERY SCIENCE
+http://omega.ws:8080/localhd/211VGH699/394
+#EXTINF:-1,|UK|  DISCOVERY TURBO
+http://omega.ws:8080/localhd/211VGH699/395
+#EXTINF:-1,|UK| Baby tv
+http://omega.ws:8080/localhd/211VGH699/387
+#EXTINF:-1,|UK| DISNEY CHANNEL
+http://omega.ws:8080/localhd/211VGH699/388
+#EXTINF:-1,|UK| Boomerang
+http://omega.ws:8080/localhd/211VGH699/385
+#EXTINF:-1,|UK| CARTOON NETWORK
+http://omega.ws:8080/localhd/211VGH699/386
+#EXTINF:-1,|UK| DISNEY JUNIOR
+http://omega.ws:8080/localhd/211VGH699/384
+#EXTINF:-1,|UK| DISNEY XD
+http://omega.ws:8080/localhd/211VGH699/383
+#EXTINF:-1,|UK| NICK JR
+http://omega.ws:8080/localhd/211VGH699/382
+#EXTINF:-1,|UK| NICKTOONS
+http://omega.ws:8080/localhd/211VGH699/381
+#EXTINF:-1,|UK| NIKLODEON
+http://omega.ws:8080/localhd/211VGH699/380
+#EXTINF:-1,|UK|CRIME & INVESTIGATION
+http://omega.ws:8080/localhd/211VGH699/431
+#EXTINF:-1,|UK|SKY ACTION & ADVENTURE
+http://omega.ws:8080/localhd/211VGH699/439
+#EXTINF:-1,|UK|SKY MOVIE FAMILY HD
+http://omega.ws:8080/localhd/211VGH699/437
+#EXTINF:-1,|UK|SKY MODERN GRATE
+http://omega.ws:8080/localhd/211VGH699/435
+#EXTINF:-1,|UK|SKY MOVIES DISNEY
+http://omega.ws:8080/localhd/211VGH699/434
+#EXTINF:-1,|UK| Sky Movies Drama
+http://omega.ws:8080/localhd/211VGH699/452
+#EXTINF:-1,|UK| SKY MOVIES LIVING
+http://omega.ws:8080/localhd/211VGH699/398
+#EXTINF:-1,|UK| SKY MOVIES PREMIERE
+http://omega.ws:8080/localhd/211VGH699/453
+#EXTINF:-1,|UK|SKY MOVIES SHOWCASE
+http://omega.ws:8080/localhd/211VGH699/448
+#EXTINF:-1,|UK|Sky Sci-Fi
+http://omega.ws:8080/localhd/211VGH699/436
+#EXTINF:-1,|UK|TRUE MOVIE
+http://omega.ws:8080/localhd/211VGH699/454
+#EXTINF:-1,|UK| TRUE MOVIES  1
+http://omega.ws:8080/localhd/211VGH699/451
+#EXTINF:-1,|UK| mov4men1
+http://omega.ws:8080/localhd/211VGH699/446
+#EXTINF:-1,|UK| CBS ACTION
+http://omega.ws:8080/localhd/211VGH699/441
+#EXTINF:-1,|UK| CBS DRAMA
+http://omega.ws:8080/localhd/211VGH699/440
+#EXTINF:-1,|UK| CBS REALITY
+http://omega.ws:8080/localhd/211VGH699/443
+#EXTINF:-1,|UK| SKY ATLANTIC
+http://omega.ws:8080/localhd/211VGH699/442
+#EXTINF:-1,|UK| SKY COMEDY
+http://omega.ws:8080/localhd/211VGH699/433
+#EXTINF:-1,|UK| SKY CRIME & THRILLER
+http://omega.ws:8080/localhd/211VGH699/438
+#EXTINF:-1,|UK|SKY SELECT
+http://omega.ws:8080/localhd/211VGH699/432
