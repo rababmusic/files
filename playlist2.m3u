@@ -1,63 +1,67 @@
 #EXTM3U
-#EXTINF:-1,TR| Bein Sports Haber HD
-http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30225
-#EXTINF:-1,TR| Bein Sports  4K
-http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30226
-#EXTINF:-1,TR:: BeinSports 1 HEVC
+#EXTINF:-1,BeinSports 1 UHD
+http://stream.iptvesun.com:25461/aaaaaa/aaaaaa/25869
+#EXTINF:-1,BeinSports 1 HD
+http://stream.iptvesun.com:25461/aaaaaa/aaaaaa/25865
+#EXTINF:-1,BeinSports 1 HEVC
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/47394
-#EXTINF:-1,TR :: Bein Sports 1 FHD
+#EXTINF:-1,Bein Sports 1 FHD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/46233
-#EXTINF:-1,TR :: Bein Sports 1 HD
+#EXTINF:-1,Bein Sports 1 HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/46234
-#EXTINF:-1,TR :: Bein Sports 1 HD 1280x720
+#EXTINF:-1,Bein Sports 1 HD 1280x720
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/47437
-#EXTINF:-1,TR :: Bein Sports 1 SD
+#EXTINF:-1,Bein Sports 1 SD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/46235
-#EXTINF:-1,TR| Bein Sports 1 1080p HD
+#EXTINF:-1,Bein Sports 1 1080p HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30232
-#EXTINF:-1,TR| Digiturk SPOR 1 1280x720p HD
+#EXTINF:-1,Bein Sports 1 1280x720p HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30220
-#EXTINF:-1,TR| Bein Sports 1 1280x720p (TR:EU)
+#EXTINF:-1,Bein Sports 1 1280x720p (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30572
-#EXTINF:-1,TR| Digiturk SPOR 1 SD
+#EXTINF:-1,Bein Sports 1 1 SD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30213
-#EXTINF:-1,TR| Digiturk SPOR 1 SD (Kota Dostu)
+#EXTINF:-1,Bein Sports 1 SD (Kota Dostu)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30214
-#EXTINF:-1,TR| Bein Sports 2  1080p HD
+#EXTINF:-1,BEIN SPORT 2 UHD
+http://stream.iptvesun.com:25461/aaaaaa/aaaaaa/25868
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://stream.iptvesun.com:25461/aaaaaa/aaaaaa/25864
+#EXTINF:-1,Bein Sports 2  1080p HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30231
-#EXTINF:-1,TR| Digiturk SPOR 2 1280x720p HD
+#EXTINF:-1,Digiturk SPOR 2 1280x720p HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30219
-#EXTINF:-1,TR| Bein Sports 2 1280x720p (TR:EU)
+#EXTINF:-1,Bein Sports 2 1280x720p (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30571
-#EXTINF:-1,TR| Digiturk SPOR 2 SD
+#EXTINF:-1,Digiturk SPOR 2 SD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30212
-#EXTINF:-1,TR| Bein Sports 3  1080p HD
+#EXTINF:-1,Bein Sports 3  1080p HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30230
-#EXTINF:-1,TR| Digiturk SPOR 3 1280x720p HD
+#EXTINF:-1,Digiturk SPOR 3 1280x720p HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30218
-#EXTINF:-1,TR| Bein Sports 3 1280x720p (TR:EU)
+#EXTINF:-1,Bein Sports 3 1280x720p (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30570
-#EXTINF:-1,TR| Digiturk SPOR 3 SD
+#EXTINF:-1,Digiturk SPOR 3 SD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30211
-#EXTINF:-1,TR| Bein Sports 4  1080p HD
+#EXTINF:-1,Bein Sports 4  1080p HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30229
-#EXTINF:-1,TR| Digiturk SPOR 4 1280x720p HD
+#EXTINF:-1,Digiturk SPOR 4 1280x720p HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30217
-#EXTINF:-1,TR| Bein Sports 4 1280x720p (TR:EU)
+#EXTINF:-1,Bein Sports 4 1280x720p (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30569
-#EXTINF:-1,TR| Digiturk SPOR 4 SD
+#EXTINF:-1,Digiturk SPOR 4 SD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30210
-#EXTINF:-1,TR| Bein Sports Max 1  1080p HD
+#EXTINF:-1,Bein Sports Max 1  1080p HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30228
-#EXTINF:-1,TR| Digiturk SPOR Max1 1280x720p HD
+#EXTINF:-1,Digiturk SPOR Max1 1280x720p HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30216
-#EXTINF:-1,TR| Digiturk SPOR Max 1 SD
+#EXTINF:-1,Digiturk SPOR Max 1 SD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30209
-#EXTINF:-1,TR| Bein Sports Max 2  1080p HD
+#EXTINF:-1,Bein Sports Max 2  1080p HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30227
-#EXTINF:-1,TR| Digiturk SPOR Max2 1280x720p HD
+#EXTINF:-1,Digiturk SPOR Max2 1280x720p HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30215
-#EXTINF:-1,TR| Digiturk SPOR Max 2 SD
+#EXTINF:-1,Digiturk SPOR Max 2 SD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30208
 #EXTINF:-1,TR | Tivibu Spor 1 HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30224
@@ -67,7 +71,7 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30223
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30222
 #EXTINF:-1,TR | S Sport 1080p HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30203
-#EXTINF:-1,TR| S Sport2 1080p HD
+#EXTINF:-1,S Sport2 1080p HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/38745
 #EXTINF:-1,TR | S SPORT 2 Plus 1080p
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30202
@@ -77,7 +81,7 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30206
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30205
 #EXTINF:-1,TR | Smart Spor SD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30204
-#EXTINF:-1,TR| (D smart) SMART SPOR
+#EXTINF:-1,(D smart) SMART SPOR
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30207
 #EXTINF:-1,TR | SPORTS  TV
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30188
@@ -85,9 +89,13 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30188
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30199
 #EXTINF:-1,TR | Eurosport 2  HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30198
-#EXTINF:-1,TR: TRT SPOR HD
+#EXTINF:-1,Bein Sports Haber HD
+http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30225
+#EXTINF:-1,Bein Sports  4K
+http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30226
+#EXTINF:-1,TRT SPOR HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30193
-#EXTINF:-1,TR: TRT SPOR UHD
+#EXTINF:-1,TRT SPOR UHD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30194
 #EXTINF:-1,TR | VIP  A SPOR UHD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30197
@@ -99,7 +107,7 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30195
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30191
 #EXTINF:-1,TR | FB TV HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30190
-#EXTINF:-1,TR: YENI MALATYA SPOR TV HD
+#EXTINF:-1,YENI MALATYA SPOR TV HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/42113
 #EXTINF:-1,TR | FightBox HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30200
@@ -199,57 +207,57 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30248
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30250
 #EXTINF:-1,##### TURK ULUSAL HD/SD PAKETI #####
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30307
-#EXTINF:-1,TR: TRT 1 HD
+#EXTINF:-1,TRT 1 HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30306
-#EXTINF:-1,TR: TRT 1 HD  (TR:EU)
+#EXTINF:-1,TRT 1 HD  (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30568
-#EXTINF:-1,TR: TRT 2 HD
+#EXTINF:-1,TRT 2 HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43589
-#EXTINF:-1,TR: ATV HD
+#EXTINF:-1,ATV HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30305
-#EXTINF:-1,TR: ATV HD (TR:EU)
+#EXTINF:-1,ATV HD (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30567
-#EXTINF:-1,TR: ATV Avrupa
+#EXTINF:-1,ATV Avrupa
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30304
-#EXTINF:-1,TR: KANAL D HD
+#EXTINF:-1,KANAL D HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30299
-#EXTINF:-1,TR: KANAL D HD  (TR:EU)
+#EXTINF:-1,KANAL D HD  (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30564
-#EXTINF:-1,TR: EURO D Avrupa
+#EXTINF:-1,EURO D Avrupa
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30298
-#EXTINF:-1,TR: STAR TV HD
+#EXTINF:-1,STAR TV HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30301
-#EXTINF:-1,TR: STAR TV HD  (TR:EU)
+#EXTINF:-1,STAR TV HD  (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30565
-#EXTINF:-1,TR: EURO STAR Avrupa
+#EXTINF:-1,EURO STAR Avrupa
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30300
-#EXTINF:-1,TR: SHOW TV HD
+#EXTINF:-1,SHOW TV HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30303
-#EXTINF:-1,TR: SHOW TV HD (TR:EU)
+#EXTINF:-1,SHOW TV HD (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30566
-#EXTINF:-1,TR: SHOW TURK Avrupa
+#EXTINF:-1,SHOW TURK Avrupa
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30302
-#EXTINF:-1,TR: KANAL 7 HD
+#EXTINF:-1,KANAL 7 HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30295
-#EXTINF:-1,TR: KANAL 7 HD (TR:EU)
+#EXTINF:-1,KANAL 7 HD (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30561
-#EXTINF:-1,TR: KANAL 7 Avrupa
+#EXTINF:-1,KANAL 7 Avrupa
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30294
-#EXTINF:-1,TR: FOX TV HD
+#EXTINF:-1,FOX TV HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30297
-#EXTINF:-1,TR: FOX TV HD (TR:EU)
+#EXTINF:-1,FOX TV HD (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30563
-#EXTINF:-1,TR: Teve2 HD  (TR:EU)
+#EXTINF:-1,Teve2 HD  (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30559
-#EXTINF:-1,TR: TV 8 HD
+#EXTINF:-1,TV 8 HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30296
-#EXTINF:-1,TR: TV 8 HD (TR:EU)
+#EXTINF:-1,TV 8 HD (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30562
 #EXTINF:-1,TR | TV 8.5 HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30290
-#EXTINF:-1,TR: BEYAZ TV HD
+#EXTINF:-1,BEYAZ TV HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30293
-#EXTINF:-1,TR: BEYAZ TV HD (TR:EU)
+#EXTINF:-1,BEYAZ TV HD (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30560
 #EXTINF:-1,TR | A2 TV HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30291
@@ -257,11 +265,11 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30291
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30279
 #EXTINF:-1,TR | VIP 360 TV HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30275
-#EXTINF:-1,TR: SONY CHANNEL TURKIYE
+#EXTINF:-1,SONY CHANNEL TURKIYE
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30289
 #EXTINF:-1,TR |  TLC HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30277
-#EXTINF:-1,TR| MAXIMUM TV HD
+#EXTINF:-1,MAXIMUM TV HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39040
 #EXTINF:-1,TR | VIP A HABER HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30287
@@ -399,25 +407,25 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/38431
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/38430
 #EXTINF:-1,TR | NEXTBOX YESILCAM
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/38429
-#EXTINF:-1,TR| FilmBOX Adrenalin HD
+#EXTINF:-1,FilmBOX Adrenalin HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39758
-#EXTINF:-1,TR| FilmBOX Animation HD
+#EXTINF:-1,FilmBOX Animation HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39757
-#EXTINF:-1,TR| FilmBOX Drama HD
+#EXTINF:-1,FilmBOX Drama HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39754
-#EXTINF:-1,TR| FilmBOX Family 2 HD
+#EXTINF:-1,FilmBOX Family 2 HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39753
-#EXTINF:-1,TR| FilmBOX Family HD
+#EXTINF:-1,FilmBOX Family HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39752
-#EXTINF:-1,TR| FilmBOX Fantastik HD
+#EXTINF:-1,FilmBOX Fantastik HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39751
-#EXTINF:-1,TR| FilmBOX KemalSunal HD
+#EXTINF:-1,FilmBOX KemalSunal HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39750
-#EXTINF:-1,TR| FilmBOX Komedi HD
+#EXTINF:-1,FilmBOX Komedi HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39749
-#EXTINF:-1,TR| FilmBOX Korku HD
+#EXTINF:-1,FilmBOX Korku HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39748
-#EXTINF:-1,TR| FilmBOX Turk HD
+#EXTINF:-1,FilmBOX Turk HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39744
 #EXTINF:-1,TR | FilmBOX 4K  UHD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/38447
@@ -441,21 +449,21 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/38448
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/38449
 #EXTINF:-1,TR | FilmBOX Vizyon  HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/38452
-#EXTINF:-1,TR| FilmBOX Yesilcam HD
+#EXTINF:-1,FilmBOX Yesilcam HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/38444
-#EXTINF:-1,VIP:TR: MOVIESINEMA--1-HD
+#EXTINF:-1,VIP:MOVIESINEMA--1-HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39738
-#EXTINF:-1,VIP:TR: MOVIESINEMA-1-HD
+#EXTINF:-1,VIP:MOVIESINEMA-1-HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39741
-#EXTINF:-1,VIP:TR: MOVIESINEMA-KOMEDI-HD
+#EXTINF:-1,VIP:MOVIESINEMA-KOMEDI-HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39740
-#EXTINF:-1,VIP:TR: MOVIESINEMA-KORKU-HD
+#EXTINF:-1,VIP:MOVIESINEMA-KORKU-HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39739
-#EXTINF:-1,VIP:TR: MOVIESINEMA-TURK-HD
+#EXTINF:-1,VIP:MOVIESINEMA-TURK-HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39737
-#EXTINF:-1,VIP:TR: MOVIESINEMA-VIZYON-HD
+#EXTINF:-1,VIP:MOVIESINEMA-VIZYON-HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39736
-#EXTINF:-1,VIP:TR: MOVIESINEMA-YESILCAM-HD
+#EXTINF:-1,VIP:MOVIESINEMA-YESILCAM-HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/39735
 #EXTINF:-1,TR | MOVIESINEMA--1-HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/38417
@@ -513,23 +521,23 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30391
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30385
 #EXTINF:-1,TR | MovieSmart Classic HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30380
-#EXTINF:-1,TR|  Dizi Smart Premium HD
+#EXTINF:-1, Dizi Smart Premium HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30384
-#EXTINF:-1,TR| MovieSmart Action HD
+#EXTINF:-1,MovieSmart Action HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30383
-#EXTINF:-1,TR| MovieSmart Family HD
+#EXTINF:-1,MovieSmart Family HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30381
-#EXTINF:-1,TR| MovieSmart Gold HD
+#EXTINF:-1,MovieSmart Gold HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30388
-#EXTINF:-1,TR| MovieSmart Platin HD
+#EXTINF:-1,MovieSmart Platin HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30389
-#EXTINF:-1,TR| MovieSmart Platin 2 HD
+#EXTINF:-1,MovieSmart Platin 2 HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30382
-#EXTINF:-1,TR| MovieSmart Premium HD
+#EXTINF:-1,MovieSmart Premium HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30387
-#EXTINF:-1,TR| MovieSmart Premium 2 HD
+#EXTINF:-1,MovieSmart Premium 2 HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30386
-#EXTINF:-1,TR| MovieSmart Türk HD
+#EXTINF:-1,MovieSmart Türk HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30390
 #EXTINF:-1,##### TURK TIVIBU PAKETI #####
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/41707
@@ -563,11 +571,11 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30434
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30436
 #EXTINF:-1,TR | History Channel  HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30423
-#EXTINF:-1,TR: History Channel HD (TR:EU)
+#EXTINF:-1,History Channel HD (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/42110
 #EXTINF:-1,TR |  Discovery Channel (Türkiye) HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30417
-#EXTINF:-1,TR: Discovery Channel (TR:EU)
+#EXTINF:-1,Discovery Channel (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/42111
 #EXTINF:-1,TR | Discovery Science HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30432
@@ -579,19 +587,19 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30433
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30418
 #EXTINF:-1,TR | Animal Planet HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30419
-#EXTINF:-1,TR: Animal Planet HD (TR:EU)
+#EXTINF:-1,Animal Planet HD (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/42112
 #EXTINF:-1,TR | National Geographic   HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30424
-#EXTINF:-1,TR: National Geographic HD (TR:EU)
+#EXTINF:-1,National Geographic HD (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/42109
 #EXTINF:-1,TR | National Geographic People  HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30425
-#EXTINF:-1,TR: National Geographic People HD (TR:EU)
+#EXTINF:-1,National Geographic People HD (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/42108
 #EXTINF:-1,TR | National Geographic Wild HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30426
-#EXTINF:-1,TR: National Geographic Wild HD (TR:EU)
+#EXTINF:-1,National Geographic Wild HD (TR:EU)
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/42107
 #EXTINF:-1,TR | BBC Earth HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30429
@@ -625,7 +633,7 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30585
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30578
 #EXTINF:-1,TR | VIP CNN TURK UHD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30579
-#EXTINF:-1,TR: CNN International Europe HD
+#EXTINF:-1,CNN International Europe HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/42106
 #EXTINF:-1,TR | HABERTURK SD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30582
@@ -643,7 +651,7 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30577
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30574
 #EXTINF:-1,TR | VIP TGRT HABER HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30575
-#EXTINF:-1,TR| HABER GLOBAL HD
+#EXTINF:-1,HABER GLOBAL HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/38021
 #EXTINF:-1,TR | ULUSAL KANAL
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30573
@@ -651,23 +659,23 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30573
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30588
 #EXTINF:-1,TR | VIP HALK TV HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30589
-#EXTINF:-1,TR| A PARA TV
+#EXTINF:-1,A PARA TV
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30594
 #EXTINF:-1,TR | Tele 1 HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30590
-#EXTINF:-1,TR: TV 100
+#EXTINF:-1,TV 100
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/41466
 #EXTINF:-1,TR | Haber aks
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30592
 #EXTINF:-1,TR | Kanal  B
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30591
-#EXTINF:-1,TR| ON4
+#EXTINF:-1,ON4
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30593
 #EXTINF:-1,##### TURK YEREL PAKETI #####
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43925
 #EXTINF:-1,TR | TURKIYEM TV
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43072
-#EXTINF:-1,TR|  TV 264
+#EXTINF:-1, TV 264
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/38229
 #EXTINF:-1,TR |  KARDELEN TV
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30618
@@ -719,9 +727,9 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30604
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30597
 #EXTINF:-1,##### TURK COCUK PAKETI #####
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30501
-#EXTINF:-1,TR: NILOYA TV
+#EXTINF:-1,NILOYA TV
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/46232
-#EXTINF:-1,TR: PEPEE TV
+#EXTINF:-1,PEPEE TV
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/46231
 #EXTINF:-1,TR | TRT Cocuk HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30490
@@ -733,7 +741,7 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30487
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30494
 #EXTINF:-1,TR | Nickelodeon Jr Cocuk  HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30493
-#EXTINF:-1,TR|  Disney Chanel HD
+#EXTINF:-1, Disney Chanel HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30497
 #EXTINF:-1,TR | Disney Junior Channel
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30486
@@ -765,51 +773,51 @@ http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30506
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30507
 #EXTINF:-1,##### TURK MUZIK PAKETI #####
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43249
-#EXTINF:-1,TR:  | DREAM TURK HD
+#EXTINF:-1, | DREAM TURK HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43239
-#EXTINF:-1,TR:  | DREAM TV HD
+#EXTINF:-1, | DREAM TV HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43240
-#EXTINF:-1,TR:  | H1 TV HD
+#EXTINF:-1, | H1 TV HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43244
-#EXTINF:-1,TR:  | HiTS
+#EXTINF:-1, | HiTS
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43234
-#EXTINF:-1,TR:  | IPTV ARABESK
+#EXTINF:-1, | IPTV ARABESK
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43236
-#EXTINF:-1,TR:  | IPTV TÜRKÜLER
+#EXTINF:-1, | IPTV TÜRKÜLER
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43235
-#EXTINF:-1,TR:  | KANAL Firat
+#EXTINF:-1, | KANAL Firat
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43232
-#EXTINF:-1,TR:  | KiS TV
+#EXTINF:-1, | KiS TV
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43245
-#EXTINF:-1,TR:  | KRAL POP  HD
+#EXTINF:-1, | KRAL POP  HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43247
-#EXTINF:-1,TR:  | MCM TOP
+#EXTINF:-1, | MCM TOP
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43229
-#EXTINF:-1,TR:  | Mezzo Tv
+#EXTINF:-1, | Mezzo Tv
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43233
-#EXTINF:-1,TR:  | MIX MUSIC HD
+#EXTINF:-1, | MIX MUSIC HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43228
-#EXTINF:-1,TR:  | MTV 2 HD
+#EXTINF:-1, | MTV 2 HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43237
-#EXTINF:-1,TR:  | MTV HITS
+#EXTINF:-1, | MTV HITS
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43230
-#EXTINF:-1,TR:  | MTV LiVE
+#EXTINF:-1, | MTV LiVE
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43243
-#EXTINF:-1,TR:  | MTV LIVE HD
+#EXTINF:-1, | MTV LIVE HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43227
-#EXTINF:-1,TR:  | MTV MUSIC UHD
+#EXTINF:-1, | MTV MUSIC UHD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43226
-#EXTINF:-1,TR:  | NR1 TURK HD
+#EXTINF:-1, | NR1 TURK HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43246
-#EXTINF:-1,TR:  | NUMBER 1 HD
+#EXTINF:-1, | NUMBER 1 HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43248
-#EXTINF:-1,TR:  | POWER TURK HD
+#EXTINF:-1, | POWER TURK HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43242
-#EXTINF:-1,TR:  | POWER TV HD
+#EXTINF:-1, | POWER TV HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43241
-#EXTINF:-1,TR:  | TRT MUZIK HD
+#EXTINF:-1, | TRT MUZIK HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43238
-#EXTINF:-1,TR:  | VH1 CLASSIC HD
+#EXTINF:-1, | VH1 CLASSIC HD
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/43231
 #EXTINF:-1,##### DE NATIONAL #####
 http://goaltivi.live:1881/n6VAtzRmtZ/1j1O5526Qs/30681
