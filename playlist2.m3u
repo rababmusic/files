@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1,TR: BEiN SPORT-1 ULTRA HD
-https://srvc.kelesmelesdegilburaportorico.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8
+#EXTINF:-1,TR: test
+https://newcdn.macekle.com/test/beinsport1new/chunklist.m3u8?secure=RcxcUqAo2pvKRFuFf6T-uw&expires=1609693139&ip=78.71.109.137
 #EXTINF:-1,TR: BEiN SPORT-1 HD HVEC(H265)
-https://srvc.napacazbealtan.xyz/kaynakstreamradarco/selcukbein1app/strmrdr.m3u8
+https://hlsz.nscdnetwork.com/hlslive/190.m3u8?verify=6501b1517e8f4572ea0ab8ad6d152866c5f8730c47e205e4106e2c80adcda8e4
 #EXTINF:-1,TR: BEiN SPORT 1 HD
-https://srvc.napacazbealtan.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8
+https://hlsz.nscdnetwork.com/hlslive/950.m3u8?verify=6501b1517e8f4572ea0ab8ad6d152866c5f8730c47e205e4106e2c80adcda8e4
 #EXTINF:-1,TR: BEINSPOR 1 HD
 https://srvc.naberlafissekkk.xyz/kaynakstreamradarco/58/strmrdr.m3u8
 #EXTINF:-1,TR: BEiN SPORT-1 HD+
